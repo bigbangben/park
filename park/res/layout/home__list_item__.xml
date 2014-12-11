@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/home__list_item_bg__top"
+    android:orientation="vertical"
+    android:padding="2dp" >
+
+    <TextView
+        android:id="@+id/home_tv_parkingName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:singleLine="true"
+        android:text="百汇园停车场"
+        android:textColor="#3269a2"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/home_tv_location"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/home_tv_parkingName"
+        android:layout_below="@id/home_tv_parkingName"
+        android:layout_marginTop="13dp"
+        android:lines="1"
+        android:textSize="16sp"
+        android:text="浦东新区世纪大道2000号"
+        android:textColor="#666666" />
+
+    <TextView
+        android:id="@+id/home_tv_pay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/home_tv_parkingName"
+        android:layout_marginRight="10dp"
+        android:text="10元/次"
+        android:textColor="#feab0c"
+        android:textSize="15sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/home_tv_location"
+        android:layout_alignRight="@id/home_tv_pay"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:contentDescription="@null"
+            android:src="@drawable/home_list_good" />
+
+        <TextView
+            android:id="@+id/home_tv_good"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1222"
+            android:textColor="#f7b067"
+            android:textSize="11sp" />
+
+        <ImageView
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:contentDescription="@null"
+            android:src="@drawable/home_list_divide" />
+
+        <ImageView
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:contentDescription="@null"
+            android:src="@drawable/home_list_distance" />
+
+        <TextView
+            android:id="@+id/home_tv_distance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="312m"
+            android:textColor="#62bac0"
+            android:textSize="11sp" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/home_iv_vip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/home_tv_parkingName"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="2dp"
+        android:layout_toRightOf="@+id/home_tv_parkingName"
+        android:contentDescription="@null"
+        android:src="@drawable/home_list_vip" />
+
+    <View 
+        android:id="@+id/test_view"
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:layout_below="@id/home_tv_location"
+        />
+    <RelativeLayout
+        android:id="@+id/merchant_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/test_view"
+        android:background="@drawable/home__list_item_bg__bottom" >
+
+        <RelativeLayout
+            android:id="@+id/home_rf_mainShopName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#b6c9c3"
+            android:paddingBottom="4dp"
+            android:paddingLeft="66dp"
+            android:paddingRight="10dp"
+            android:paddingTop="4dp" >
+
+            <TextView
+                android:id="@+id/home_tv_mainShopName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="西贝西北菜"
+                android:textColor="#ffffff"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/home_tv_minConsume"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_centerVertical="true"
+                android:text="任意消费抵10元"
+                android:textColor="#fffb96"
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_below="@id/home_rf_mainShopName"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="4dp"
+            android:paddingLeft="66dp"
+            android:paddingRight="10dp"
+            android:paddingTop="4dp" >
+
+            <lanyotech.cn.park.component.GraphicImageView
+                android:id="@+id/home_iv_otherShopLogo1"
+                android:layout_marginRight="5dp"
+                android:contentDescription="@null"
+                style="@style/home_iv_otherShopLogo"
+                android:src="@drawable/home_list_sample1" />
+
+            <lanyotech.cn.park.component.GraphicImageView
+                android:id="@+id/home_iv_otherShopLogo2"
+                android:layout_marginRight="5dp"
+                android:contentDescription="@null"
+                style="@style/home_iv_otherShopLogo"
+                android:src="@drawable/home_list_sample2" />
+
+            <lanyotech.cn.park.component.GraphicImageView
+                android:id="@+id/home_iv_otherShopLogo3"
+                android:layout_marginRight="5dp"
+                android:contentDescription="@null"
+                style="@style/home_iv_otherShopLogo"
+                android:src="@drawable/home_list_sample3" />
+
+            <lanyotech.cn.park.component.GraphicImageView
+                android:id="@+id/home_iv_otherShopLogo4"
+                android:layout_marginRight="5dp"
+                android:contentDescription="@null"
+                style="@style/home_iv_otherShopLogo"
+                android:src="@drawable/home_list_sample4" />
+
+            <lanyotech.cn.park.component.GraphicImageView
+                android:id="@+id/home_iv_otherShopLogo5"
+                android:layout_marginRight="5dp"
+                android:contentDescription="@null"
+                style="@style/home_iv_otherShopLogo"
+                android:src="@drawable/home_list_sample5" />
+
+            <lanyotech.cn.park.component.GraphicImageView
+                android:id="@+id/home_iv_otherShopLogo6"
+                android:layout_marginRight="5dp"
+                android:contentDescription="@null"
+                style="@style/home_iv_otherShopLogo"
+                android:src="@drawable/home_list_sample6" />
+
+        </LinearLayout>
+
+        <lanyotech.cn.park.component.GraphicImageView
+            android:id="@+id/home_iv_mainShopLogo"
+            android:layout_width="@dimen/home_iv_mainShopLogoWidth"
+            android:layout_height="@dimen/home_iv_mainShopLogoHeight"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="4dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            />
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg_"
+    android:paddingLeft="@dimen/common_vg_baseHorizontalPadding"
+    android:paddingRight="@dimen/common_vg_baseHorizontalPadding" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/common__vg_bg__input"
+            android:orientation="vertical"
+            android:paddingBottom="1dp"
+            android:paddingTop="1dp" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="6dp"
+                android:paddingRight="6dp" >
+
+                <RelativeLayout
+                    android:id="@+id/pCenter_vg_nickName"
+                    android:layout_width="match_parent"
+                    android:layout_height="42dp" >
+
+                    <ImageView
+                        android:id="@+id/pCenter_rf_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:contentDescription="@null"
+                        android:src="@drawable/listicon_nickname" />
+
+                    <TextView
+                        android:id="@+id/nickName_temp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="12dp"
+                        android:layout_toRightOf="@+id/pCenter_rf_name"
+                        android:text="@string/pCenter_tv_nickName"
+                        android:textColor="#999999"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/pCenter_tv_nickName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_toRightOf="@+id/nickName_temp"
+                        android:drawableRight="@drawable/commonicon_right"
+                        android:gravity="center_vertical|right"
+                        android:singleLine="true"
+                        android:text="考考西"
+                        android:textColor="#81a9a0"
+                        android:textSize="15sp" />
+                </RelativeLayout>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:contentDescription="@null"
+                    android:src="@drawable/common__iv__dotted_line" />
+
+                <RelativeLayout
+                    android:id="@+id/pCenter_vg_phoneNum"
+                    android:layout_width="match_parent"
+                    android:layout_height="42dp" >
+
+                    <ImageView
+                        android:id="@+id/pCenter_rf_phoneNum"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:contentDescription="@null"
+                        android:src="@drawable/listicon_mobile" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="12dp"
+                        android:layout_toRightOf="@+id/pCenter_rf_phoneNum"
+                        android:text="@string/pCenter_tv_phoneNum"
+                        android:textColor="#999999"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/pCenter_tv_phoneNum"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:drawableRight="@drawable/commonicon_right"
+                        android:gravity="center_vertical"
+                        android:text="18235469878"
+                        android:textColor="#81a9a0"
+                        android:textSize="15sp" />
+                </RelativeLayout>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:contentDescription="@null"
+                    android:src="@drawable/common__iv__dotted_line" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/pCenter_vg_alterPassword"
+                android:layout_width="fill_parent"
+                android:layout_height="42dp"
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp" >
+
+                <ImageView
+                    android:id="@+id/pCenter_rf_alterPassword"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:paddingLeft="5dp"
+                    android:src="@drawable/listicon_password_2" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="12dp"
+                    android:layout_toRightOf="@+id/pCenter_rf_alterPassword"
+                    android:text="@string/pCenter_tv_alterPassword"
+                    android:textColor="#333333"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:paddingRight="5dp"
+                    android:src="@drawable/commonicon_right" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/common__vg_bg__input"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingBottom="1dp"
+            android:paddingLeft="6dp"
+            android:paddingRight="6dp"
+            android:paddingTop="1dp" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="42dp" >
+
+                <ImageView
+                    android:id="@+id/pCenter_rf_publishMessage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:src="@drawable/listicon_publice" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="12dp"
+                    android:layout_toRightOf="@+id/pCenter_rf_publishMessage"
+                    android:text="@string/pCenter_tv_publishMessage"
+                    android:textColor="#333333"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:contentDescription="@null"
+                android:src="@drawable/common__iv__dotted_line" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/pCenter_tv_parking"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="55dp"
+                    android:drawablePadding="10dp"
+                    android:drawableTop="@drawable/p_center__tv_dr__parking_sel"
+                    android:gravity="center_horizontal"
+                    android:text="@string/pCenter_tv_parking"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/pCenter_tv_discount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="10dp"
+                    android:drawableTop="@drawable/p_center__tv_dr__discount_sel"
+                    android:gravity="center_horizontal"
+                    android:text="@string/pCenter_tv_discount"
+                    android:textSize="15sp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/pCenter_tv_tips"
+                android:textColor="#999999"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/common__vg_bg__input"
+            android:orientation="vertical"
+            android:paddingBottom="1dp"
+            android:paddingLeft="6dp"
+            android:paddingRight="6dp"
+            android:paddingTop="1dp" >
+
+            <RelativeLayout
+                android:id="@+id/pCenter_vg_assessApp"
+                android:layout_width="match_parent"
+                android:layout_height="42dp" >
+
+                <ImageView
+                    android:id="@+id/pCenter_rf_assessApp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:src="@drawable/listicon_appraise" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="12dp"
+                    android:layout_toRightOf="@+id/pCenter_rf_assessApp"
+                    android:text="@string/pCenter_tv_assessApp"
+                    android:textColor="#333333"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:src="@drawable/commonicon_right" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:contentDescription="@null"
+                android:src="@drawable/common__iv__dotted_line" />
+
+            <RelativeLayout
+                android:id="@+id/pCenter_vg_officialWebsite"
+                android:layout_width="match_parent"
+                android:layout_height="42dp" >
+
+                <ImageView
+                    android:id="@+id/pCenter_rf_officialWebsite"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:src="@drawable/listicon_web" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="12dp"
+                    android:layout_toRightOf="@+id/pCenter_rf_officialWebsite"
+                    android:text="@string/pCenter_tv_officialWebsite"
+                    android:textColor="#333333"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:src="@drawable/commonicon_right" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:contentDescription="@null"
+                android:src="@drawable/common__iv__dotted_line" />
+
+            <RelativeLayout
+                android:id="@+id/pCenter_vg_aboutApp"
+                android:layout_width="match_parent"
+                android:layout_height="42dp" >
+
+                <ImageView
+                    android:id="@+id/pCenter_rf_aboutApp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:src="@drawable/listicon_about" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="12dp"
+                    android:layout_toRightOf="@+id/pCenter_rf_aboutApp"
+                    android:text="@string/pCenter_tv_aboutApp"
+                    android:textColor="#333333"
+                    android:textSize="15sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:src="@drawable/commonicon_right" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="46dp"
+    android:padding="9dp"
+    android:background="@drawable/common_title_bg"
+     >
+
+        <Button
+            android:id="@+id/leftBtn"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="left|center_vertical"
+            android:background="@drawable/title_back_sel" />
+
+        <TextView
+            android:id="@+id/titleText_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/rightBtn"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="right|center_vertical"
+            android:background="@drawable/titleicon__carama__sel" />
+    </FrameLayout>

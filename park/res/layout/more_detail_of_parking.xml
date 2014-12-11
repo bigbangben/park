@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E3E5DC"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/header"
+        layout="@layout/topbar_parkingdetail_more" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/show_pic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/pager"
+                    android:layout_width="fill_parent"
+                    android:layout_height="180dp" />
+
+          <LinearLayout
+                    android:id="@+id/dot_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                </LinearLayout>
+            </RelativeLayout> 
+
+            <RelativeLayout
+                android:id="@+id/content_parking"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/common__vg_bg__input" >
+
+                <TextView
+                    android:id="@+id/parking_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="52dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="5dp"
+                    android:gravity="center_vertical"
+                    android:padding="8dp"
+                    android:text="百汇园停车场"
+                    android:textColor="#3269A2"
+                    android:textSize="25sp" />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="2dp"
+                    android:layout_below="@id/parking_name"
+                    android:contentDescription="@null"
+                    android:src="@drawable/common__iv__dotted_line" />
+
+                <TextView
+                    android:id="@+id/money_pay_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@id/parking_name"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginTop="@dimen/text_view_paddingtop"
+                    android:gravity="center_vertical"
+                    android:text="收费    "
+                    android:textColor="#5dc1cd"
+                    android:textSize="@dimen/text_size_parking_detail" />
+
+                <TextView
+                    android:id="@+id/money_charge"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/money_pay_tv"
+                    android:layout_toRightOf="@id/money_pay_tv"
+                    android:gravity="center_vertical"
+                    android:text="10元/次 "
+                    android:textColor="#666666"
+                    android:textSize="@dimen/text_size_parking_detail_larger" />
+
+                <TextView
+                    android:id="@+id/parking_distance_iv_left"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@id/money_pay_tv"
+                    android:layout_below="@id/money_pay_tv"
+                    android:layout_marginTop="@dimen/text_view_paddingtop"
+                    android:gravity="center_vertical"
+                    android:text="距离    "
+                    android:textColor="#5dc1cd"
+                    android:textSize="@dimen/text_size_parking_detail" />
+
+                <TextView
+                    android:id="@+id/parking_distance_iv_right"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/parking_distance_iv_left"
+                    android:layout_toRightOf="@id/parking_distance_iv_left"
+                    android:gravity="center_vertical"
+                    android:text="366m "
+                    android:textColor="#666666"
+                    android:textSize="@dimen/text_size_parking_detail_larger" />
+
+                <TextView
+                    android:id="@+id/parking_style_iv_left"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@id/money_pay_tv"
+                    android:layout_below="@id/parking_distance_iv_left"
+                    android:layout_marginTop="@dimen/text_view_paddingtop"
+                    android:gravity="center_vertical"
+                    android:text="类型    "
+                    android:textColor="#5dc1cd"
+                    android:textSize="@dimen/text_size_parking_detail" />
+
+                <TextView
+                    android:id="@+id/parking_style_iv_right"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/parking_style_iv_left"
+                    android:layout_toRightOf="@id/parking_style_iv_left"
+                    android:gravity="center_vertical"
+                    android:text="室内停车场 "
+                    android:textColor="#666666"
+                    android:textSize="@dimen/text_size_parking_detail_larger" />
+
+                <TextView
+                    android:id="@+id/parking_phone_iv_left"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@id/money_pay_tv"
+                    android:layout_below="@id/parking_style_iv_left"
+                    android:layout_marginTop="@dimen/text_view_paddingtop"
+                    android:gravity="center_vertical"
+                    android:text="电话    "
+                    android:textColor="#5dc1cd"
+                    android:textSize="@dimen/text_size_parking_detail" />
+
+                <TextView
+                    android:id="@+id/parking_phone_iv_right"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@id/parking_phone_iv_left"
+                    android:layout_toRightOf="@id/parking_phone_iv_left"
+                    android:gravity="center_vertical"
+                    android:text="13888888888 "
+                    android:textColor="#666666"
+                    android:textSize="@dimen/text_size_parking_detail_larger" />
+
+                <TextView
+                    android:id="@+id/strategy_iv_left"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@id/money_pay_tv"
+                    android:layout_below="@id/parking_phone_iv_left"
+                    android:layout_marginTop="@dimen/text_view_paddingtop"
+                    android:gravity="center_vertical"
+                    android:text="攻略    "
+                    android:textColor="#5dc1cd"
+                    android:textSize="@dimen/text_size_parking_detail" />
+
+                <TextView
+                    android:id="@+id/parking_description_right"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_alignTop="@id/strategy_iv_left"
+                    android:layout_toRightOf="@id/strategy_iv_left"
+                    android:gravity="center_vertical"
+                    android:text="工作日车位很多，周末相当紧张 "
+                    android:textColor="#999999"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/parking_description_more"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@id/parking_description_right"
+                    android:layout_below="@id/parking_description_right"
+                    android:gravity="center_vertical"
+                    android:text="更多描述内容 更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容 更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容 更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容 更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容 更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容 更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容 更多描述内容更多描述内容更多描述内容更多描述内容更多描述内容"
+                    android:textColor="#999999"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/header"
+        layout="@layout/topbar_parkingdetail" />
+
+    <com.baidu.mapapi.map.MapView
+        android:id="@+id/mapView"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:clickable="false" />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout_1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="32dp"
+                android:background="@drawable/setbar_bg"
+                android:gravity="center_vertical"
+                android:text="    停车场详情"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+
+            <include
+                android:id="@+id/park_detail_m"
+                layout="@layout/parking_item_" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="32dp"
+                android:background="@drawable/setbar_bg"
+                android:gravity="center_vertical"
+                android:text="    合作商家"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+
+            <ListView
+                android:id="@+id/merchant_list_"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:cacheColorHint="@null"
+                android:divider="#00ffffff"
+                android:dividerHeight="8dp"
+                android:fadingEdge="none"
+                android:listSelector="#00ffffff" >
+            </ListView>
+            
+            
+            <TextView
+                android:id="@+id/no_merchant"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text=" 暂时没有合作商家"
+                android:textColor="#66b6ff"
+                android:textSize="25dp" 
+                android:visibility="gone"/>
+</LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

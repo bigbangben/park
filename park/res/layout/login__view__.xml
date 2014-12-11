@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg_"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/common_vg_baseHorizontalPadding"
+    android:paddingRight="@dimen/common_vg_baseHorizontalPadding" >
+
+    <ScrollView 
+        android:layout_width="match_parent"
+        android:layout_marginBottom="80dp"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="6dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/login_tv_loginByParkingAccount"
+            android:textColor="#79a095"
+            android:textSize="11sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/common__vg_bg__input"
+            android:orientation="vertical"
+            android:paddingBottom="1dp"
+            android:paddingLeft="6dp"
+            android:paddingRight="6dp"
+            android:paddingTop="1dp" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@null"
+                    android:src="@drawable/listicon_mobile" />
+
+                <EditText
+                    android:id="@+id/login_et_phoneNum"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="12dp"
+                    android:background="@null"
+                    android:hint="@string/login_et_hintPhoneNum"
+                    android:inputType="phone"
+                    android:singleLine="true"
+                    android:textColor="#999999"
+                    android:textColorHint="#999999"
+                    android:textSize="13sp" >
+
+                    <requestFocus />
+                </EditText>
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:contentDescription="@null"
+                android:src="@drawable/common__iv__dotted_line" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@null"
+                    android:src="@drawable/listicon_password" />
+
+                <EditText
+                    android:id="@+id/login_et_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="12dp"
+                    android:background="@null"
+                    android:hint="@string/login_et_hintPassword"
+                    android:inputType="textPassword"
+                    android:singleLine="true"
+                    android:textColor="#999999"
+                    android:textColorHint="#999999"
+                    android:textSize="13sp" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="8dp"
+            android:gravity="right|center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/login_tv_takeBackPassword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/commonicon_right"
+                android:gravity="center_vertical"
+                android:text="@string/login_tv_takeBackPassword"
+                android:textColor="#555555"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/login_btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/common__btn_bg__sel"
+            android:text="@string/login_btn_login"
+            android:textColor="#ffffff"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="6dp"
+            android:layout_marginLeft="6dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/login_tv_loginByOther"
+            android:textColor="#79a095"
+            android:textSize="11sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/common__vg_bg__input"
+            android:orientation="vertical"
+            android:paddingBottom="1dp"
+            android:paddingLeft="6dp"
+            android:paddingRight="6dp"
+            android:paddingTop="1dp" >
+
+            <RelativeLayout
+                android:id="@+id/login_vg_loginByQq"
+                android:layout_width="match_parent"
+                android:layout_height="42dp" >
+
+                <ImageView
+                    android:id="@+id/login_rf_qq"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:src="@drawable/listicon_qq" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="12dp"
+                    android:layout_toRightOf="@+id/login_rf_qq"
+                    android:text="@string/login_tv_QqAccount"
+                    android:textColor="#333333"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:src="@drawable/commonicon_right" />
+
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:contentDescription="@null"
+                android:src="@drawable/common__iv__dotted_line" />
+
+            <RelativeLayout
+                android:id="@+id/login_vg_loginBySina"
+                android:layout_width="match_parent"
+                android:layout_height="42dp" >
+
+                <ImageView
+                    android:id="@+id/login_rf_sina"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:src="@drawable/listicon_sina" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="12dp"
+                    android:layout_toRightOf="@+id/login_rf_sina"
+                    android:text="@string/login_tv_sinaAccount"
+                    android:textColor="#333333"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:src="@drawable/commonicon_right" />
+
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/common__vg_bg__input"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingBottom="1dp"
+            android:paddingLeft="6dp"
+            android:paddingRight="6dp"
+            android:paddingTop="1dp" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="42dp" >
+
+                <ImageView
+                    android:id="@+id/pCenter_rf_publishMessage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:contentDescription="@null"
+                    android:src="@drawable/listicon_publice" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="12dp"
+                    android:layout_toRightOf="@+id/pCenter_rf_publishMessage"
+                    android:text="@string/pCenter_tv_publishMessage"
+                    android:textColor="#333333"
+                    android:textSize="15sp" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:contentDescription="@null"
+                android:src="@drawable/common__iv__dotted_line" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="12dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:id="@+id/pCenter_tv_parking"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="55dp"
+                    android:drawablePadding="10dp"
+                    android:drawableTop="@drawable/p_center__tv_dr__parking_sel"
+                    android:gravity="center_horizontal"
+                    android:text="@string/pCenter_tv_parking"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/pCenter_tv_discount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="10dp"
+                    android:drawableTop="@drawable/p_center__tv_dr__discount_sel"
+                    android:gravity="center_horizontal"
+                    android:text="@string/pCenter_tv_discount"
+                    android:textSize="15sp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="@string/pCenter_tv_tips"
+                android:textColor="#999999"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
+    <Button
+        android:id="@+id/login_btn_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/common__btn_bg__sel"
+        android:text="@string/login_btn_registerNow"
+        android:textColor="#ffffff"
+        android:textSize="17sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/login_btn_register"
+        android:layout_marginBottom="6dp"
+        android:layout_marginLeft="6dp"
+        android:text="@string/login_tv_noParkingAccount"
+        android:textColor="#79a095"
+        android:textSize="11sp" />
+
+</RelativeLayout>

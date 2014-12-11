@@ -1,0 +1,104 @@
+<resources>
+
+    <string name="app_name">免费停车位</string>
+    
+    <string name="common_text_sampleNormal">Samlpe</string>
+    <string name="common_text_sampleCharacter">样版</string>
+    <string name="common_text_sampleNumber">12345</string>
+    
+    <string name="common_errorMsg_networkTimeout">请求超时</string>
+    <string name="common_errorMsg_networkError">网络错误</string>
+    <string name="common_errorMsg_returnDataNotMatch">无法匹配请求返回数据</string>
+    <string name="common_errorMsg_statusError">状态错误</string>
+    <string name="common_errorMsg_unknowError">未知错误</string>
+    
+    <string name="home_tv_youCanFilterParking">你可以筛选停车场类型</string>
+    <string name="home_text_unitByCount">元/次</string>
+    <string name="home_text_unitByHour">元/时</string>
+    <string name="home_text_unitByMonth">元/月</string>
+    <string name="home_text_unitFree">免费</string>
+    <string name="home_text_unitFreeLimit">限时免费</string>
+    
+    <string name="login_tv_loginByParkingAccount">使用免费停车位帐号登录</string>
+    <string name="login_tv_takeBackPassword">找回密码</string>
+    <string name="login_tv_loginByOther">合作网站帐号登录</string>
+    <string name="login_tv_QqAccount">腾讯QQ帐号</string>
+    <string name="login_tv_sinaAccount">新浪微博帐号</string>
+    <string name="login_tv_noParkingAccount">还没有免费停车位帐号？</string>
+    <string name="login_et_hintPhoneNum">手机号码</string>
+    <string name="login_et_hintPassword">6位及以上的密码</string>
+    <string name="login_btn_login">登录</string>
+    <string name="login_btn_registerNow">立即注册免费停车位用户</string>
+    
+    <string name="pCenter_tv_nickName">昵称</string>
+    <string name="pCenter_tv_phoneNum">帐号（手机号码）</string>
+    <string name="pCenter_tv_alterPassword">修改密码</string>
+    <string name="pCenter_tv_publishMessage">发布信息</string>
+    <string name="pCenter_tv_parking">停车场</string>
+    <string name="pCenter_tv_discount">商户优惠</string>
+    <string name="pCenter_tv_tips">您常去的停车场应用里还没有？您有更多与停车场合作优惠的商家信息？您可以马上发布出来，免费停车位和所有车友感谢您的参与！</string>
+    <string name="pCenter_tv_aboutApp">关于免费停车位</string>
+    <string name="pCenter_tv_officialWebsite">官方网站</string>
+    <string name="pCenter_tv_assessApp">评价应用</string>
+    
+    <string name="changePassword_hintInputNewPassWord">请输入当新密码</string>
+    <string name="changePassword_hintInputOldPassWord">请输入当前密码</string>
+    <string name="changePassword_confirmChange">确定修改</string>
+    
+    <string name="changeNickname_hint">请输入新的昵称</string>
+    
+    
+    <string name="register_et_hintPhoneNum">请输入手机号码</string>
+    <string name="register_et_hintpassword">6位及以上的密码</string>
+    <string name="register_et_hintnikename">请输入昵称（6&#8211;30位）</string>
+    <string name="register_btn_register">注册</string>
+    <string name="register_tv_phone">XXXXX收到的短信验证码</string>
+    <string name="register_et_vcode">请输入4位验证码</string>
+    <string name="register_tv_resend">如未收到验证码，请30秒后    重新发送</string>
+
+    
+    <string name="sPublish_tv_publishShop">发布停车优惠商家</string>
+    <string name="sPublish_tv_shopDetail">商家优惠详情</string>
+    <string name="sPublish_tv_canNotFindShop">很抱歉，没有查找到对应的商家，请填写商家的详细信息</string>
+    <string name="sPublish_tv_name">名称</string>
+    <string name="sPublish_tv_type">类型</string>
+    <string name="sPublish_tv_area">区域</string>
+    <string name="sPublish_tv_fullName">全名</string>
+    <string name="sPublish_tv_address">地址</string>
+    <string name="sPublish_tv_phoneNum">电话</string>
+    <string name="sPublish_tv_discountCondition">优惠条件</string>
+    <string name="sPublish_tv_parkingNearby">附近停车场</string>
+    <string name="sPublish_tv_consume">消费</string>
+    <string name="sPublish_tv_free">免</string>
+    <string name="sPublish_tv_offset">抵扣</string>
+    <string name="sPublish_tv_other">其他</string>
+    <string name="sPublish_tv_yuan">元</string>
+    <string name="sPublish_tv_hour">小时</string>
+    <string name="sPublish_tv_sorry">很抱歉，商家在大众点评上不存在。多谢您的支持！</string>
+    <string name="sPublish_text_publishSuccess">发布成功</string>
+    <string name="sPublish_text_publishFailure">发布失败</string>
+    <string name="sPublish_text_pleaseSelectABusiness">请选择一个商家</string>
+    <string name="sPublish_text_pleaseSelectAParking">请选择一个停车场</string>
+    <string name="sPublish_text_pleaseEnterCorrectDiscountInfo">请输入正确的优惠信息</string>
+    <string name="sPublish_text_pleaseEnterCorrectBusinessInfo">请输入正确的商家信息</string>
+    <string name="sPublish_text_pleaseSelectCatagory">请选择类型</string>
+    <string name="sPublish_text_pleaseSelectACatagory">请选择一个类型</string>
+    <string name="sPublish_text_pleaseSelectRegion">请选择区域</string>
+    <string name="sPublish_et_hintEnterShopName">请输入商家名称</string>
+    <string name="sPublish_et_hintEnterShopFullName">请输入商家全名</string>
+    <string name="sPublish_et_hintEnterShopAddress">请输入商家详细地址</string>
+    <string name="sPublish_et_hintEnterShopPhoneNum">请输入商家电话号码</string>
+    <string name="sPublish_btn_return">返回</string>
+    <string name="sPublish_btn_submit">提交</string>
+    <string name="sPublish_btn_nextStep">下一步</string>
+    <string name="sPublish_btn_search">查找</string>
+    
+    <!-- 分享字符串 -->
+    <string name="sShare_sina">分享到新浪微博</string>
+    <string name="sShare_wechat">分享到微信</string>
+    <string name="sShare_cancel">取消</string>
+    <string name="sShare_btn_share">分享</string>
+
+</resources>
+
+

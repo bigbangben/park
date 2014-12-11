@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/common__vg_bg__input"
+    android:paddingBottom="5dp"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="5dp" >
+
+    <TextView
+        android:id="@+id/sPublish_lsTv_no"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/listicon_nobg"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="1"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/sPublish_lsTv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/sPublish_lsTv_no"
+        android:text="西贝西北菜（中山公园店）"
+        android:textColor="#333333" />
+
+    <TextView
+        android:id="@+id/sPublish_lsTv_location"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/sPublish_lsTv_name"
+        android:layout_below="@id/sPublish_lsTv_name"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@id/sPublish_lsTv_no"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:text="长宁区长宁路1018号龙之梦6楼"
+        android:textColor="#999999"
+        android:textSize="12sp" />
+    
+   
+
+    <ImageView
+        android:id="@+id/sPublish_lsIv_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@null"
+        android:src="@drawable/commonicon_beselected" />
+      <TextView
+        android:id="@+id/sPublish_dp_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/sPublish_lsTv_no"
+        android:visibility="gone"/>
+
+</RelativeLayout>

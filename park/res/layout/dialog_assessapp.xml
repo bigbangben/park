@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_width="match_parent"
+    	android:layout_height="42dp"
+    	android:textColor="@android:color/white"
+    	android:text="意见反馈"
+    	android:gravity="center"
+    	android:textSize="19sp"
+        />
+	<EditText 
+	    android:id="@+id/contentEdit"
+	    android:layout_width="match_parent"
+	    android:layout_height="146dp"
+	    android:layout_marginTop="12dp"
+	    android:textSize="12sp"
+	    android:textColor="@color/assessAppContentColor"
+	    android:padding="10dp"
+	    />
+	<Button 
+	    android:id="@+id/submitBtn"
+	    android:layout_width="match_parent"
+	    android:layout_height="42dp"
+	    android:layout_marginTop="14dp"
+	    android:textSize="19sp"
+	    android:text="提交反馈"
+	    android:background="@drawable/pop_btn_bg_sel_"
+	    />
+</LinearLayout>
