@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="90"
+   name=""
+   committed-date="2013-12-24T09:26:28.518590Z"
+   url="svn://git.ehoo.com/freepark/src/lanyotech/cn/park/service"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="9"
+   name="UgcService.java"
+   text-time="2013-12-04T15:18:50.223493Z"
+   committed-date="2013-11-24T09:23:00.108244Z"
+   checksum="a3e4f87d6f908da413f96a0472200f68"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.133488Z"/>
+<entry
+   committed-rev="9"
+   name="MerchantService.java"
+   text-time="2013-12-04T15:18:50.235494Z"
+   committed-date="2013-11-24T09:23:00.108244Z"
+   checksum="8f53e128dc07725817e571538ba5486c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.140488Z"/>
+<entry
+   committed-rev="13"
+   name="AdService.java"
+   text-time="2013-12-04T15:18:50.248494Z"
+   committed-date="2013-11-25T10:07:04.133969Z"
+   checksum="31be203452886a4735594b3f7704a0ba"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.149489Z"/>
+<entry
+   committed-rev="47"
+   name="ResourceService.java"
+   text-time="2013-12-07T08:04:29.537614Z"
+   committed-date="2013-12-07T12:30:59.914794Z"
+   checksum="81068706b2b07617d0a3dfb160a11e2a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.159489Z"/>
+<entry
+   committed-rev="77"
+   name="SignInService.java"
+   text-time="2013-12-16T07:21:39.147356Z"
+   committed-date="2013-12-15T12:39:02.406754Z"
+   checksum="1f79575742721819490b6ae953c63b49"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-16T07:21:39.130355Z"/>
+<entry
+   committed-rev="14"
+   name="DianpingService.java"
+   text-time="2013-12-04T15:18:50.286496Z"
+   committed-date="2013-11-26T09:44:21.092777Z"
+   checksum="5cd28a92d5f175f385e5f2f8c32d9f3d"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.176490Z"/>
+<entry
+   committed-rev="90"
+   name="NetWorkState.java"
+   text-time="2013-12-24T09:04:21.322002Z"
+   committed-date="2013-12-24T09:26:28.518590Z"
+   checksum="77faf05eaebef37b860617bb625f4f54"
+   last-author="long"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="BaseService.java"
+   text-time="2013-12-04T15:18:50.298497Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="b80ef94db80085e22d561bc798739509"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.185491Z"/>
+<entry
+   committed-rev="48"
+   name="BuinessCircleService.java"
+   text-time="2013-12-07T13:46:01.446685Z"
+   committed-date="2013-12-07T13:55:50.315633Z"
+   checksum="32fdcb1e7b3201f7aa5acb8f71dcb5bd"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.193491Z"/>
+<entry
+   committed-rev="50"
+   name="ParkingService.java"
+   text-time="2013-12-07T16:12:02.731801Z"
+   committed-date="2013-12-07T16:42:58.527664Z"
+   checksum="993d5841afd8b787304028abd55d7d9c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.201492Z"/>
+<entry
+   committed-rev="10"
+   name="AccountService.java"
+   text-time="2013-12-04T15:18:50.343500Z"
+   committed-date="2013-11-25T07:07:03.751215Z"
+   checksum="66add4d83331409948ee8dd579e10c2f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.209492Z"/>
+</wc-entries>

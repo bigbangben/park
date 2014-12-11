@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg_"
+    android:paddingBottom="@dimen/common_vg_baseVerticalPadding"
+    android:paddingLeft="@dimen/common_vg_baseHorizontalPadding"
+    android:paddingRight="@dimen/common_vg_baseHorizontalPadding"
+    android:paddingTop="@dimen/common_vg_baseVerticalPadding" >
+
+    <Button
+        android:id="@+id/sPublish_btn_return"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="22dp"
+        android:background="@drawable/common__btn_bg__sel"
+        android:text="@string/sPublish_btn_return"
+        android:textColor="#ffffff"
+        android:textSize="17sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/sPublish_btn_return"
+        android:layout_centerHorizontal="true"
+        android:text="@string/sPublish_tv_sorry"
+        android:textColor="#666666"
+        android:textSize="12sp" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:contentDescription="@null"
+        android:src="@drawable/search_wrong_icon" />
+
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="common_bg_">#e3e0da</color>
+    <color name="gray">#ffe0e4e1</color>
+    <color name="trans">#00000000</color>
+    <color name="home_text_parkingNameByCount">#3269a2</color>
+    <color name="home_text_parkingNameFree">#1ea11a</color>
+    <color name="home_text_parkingDiscount">#5dc1cd</color>
+    <color name="home_text_parkingNameByTime">#fd7328</color>
+    <color name="searchLabel">#ff57B0BB</color>
+    <color name="searchMapBtn">#ffADDDE3</color>
+    <color name="post_parking_text_black">#000000</color>
+    <color name="post_parking_text_gray">#a3a3a3</color>
+    <color name="assessAppContentColor">#ff999999</color>
+    <color name="mapItemIconTextColorByTime">#fffd7328</color>
+    <color name="mapItemIconTextColorByCount">#ff4577aa</color>
+    <color name="mapItemIconTextColorByFree">#ff33a92f</color>
+    <color name="adNameTextColor">#ff3269A2</color>
+   <color name="progressColor">#88000000</color>
+   <color name="alter_password_bg">#cacbc2</color>
+   <color name="red">#ffff0000</color>
+</resources>

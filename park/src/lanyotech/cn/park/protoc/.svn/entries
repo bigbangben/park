@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10"
+   name=""
+   committed-date="2013-11-25T07:07:03.751215Z"
+   url="svn://git.ehoo.com/freepark/src/lanyotech/cn/park/protoc"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="1"
+   name="CommonProtoc.java"
+   text-time="2013-12-04T15:18:57.517910Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="131526032d38ab008824a38a91ec8f6f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.817527Z"/>
+<entry
+   committed-rev="1"
+   name="BuinessCircleProtoc.java"
+   text-time="2013-12-04T15:18:57.536911Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="4ebb03d37fbd9f583e0309e9fbae5128"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:51.320556Z"/>
+<entry
+   committed-rev="1"
+   name="ClientInfoProtoc.java"
+   text-time="2013-12-04T15:18:57.552912Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="75a688065e9e3e0354dd565f426bb6c2"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:52.007595Z"/>
+<entry
+   committed-rev="10"
+   name="ParkingProtoc.java"
+   text-time="2013-12-04T15:18:57.572913Z"
+   committed-date="2013-11-25T07:07:03.751215Z"
+   checksum="824aee6608bfb053e155378d3f202bdb"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:53.814698Z"/>
+<entry
+   committed-rev="1"
+   name="AccountProtoc.java"
+   text-time="2013-12-04T15:18:57.592914Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="1757791bf60035ffe71b0ce9800b3469"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:55.777811Z"/>
+<entry
+   committed-rev="1"
+   name="ResponseProtoc.java"
+   text-time="2013-12-04T15:18:57.604915Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="fb8fee33bc66b2623f9febf13f26efe4"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:55.887817Z"/>
+<entry
+   committed-rev="10"
+   name="UgcProtoc.java"
+   text-time="2013-12-04T15:18:57.619916Z"
+   committed-date="2013-11-25T07:07:03.751215Z"
+   checksum="77c8b3e5db470d8838d94f0cc50a5cf3"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:56.184834Z"/>
+<entry
+   committed-rev="1"
+   name="MerchantProtoc.java"
+   text-time="2013-12-04T15:18:57.635917Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="41c37478e0ff1c1a5062d2031cf3c223"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:57.263896Z"/>
+<entry
+   committed-rev="1"
+   name="AdProtoc.java"
+   text-time="2013-12-04T15:18:57.648918Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="587b2d0b53ed36446bf30aaa06551b35"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:57.498909Z"/>
+</wc-entries>

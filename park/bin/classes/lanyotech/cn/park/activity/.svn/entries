@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="95"
+   name=""
+   committed-date="2013-12-28T13:37:54.619670Z"
+   url="svn://git.ehoo.com/freepark/src/lanyotech/cn/park/activity"
+   last-author="wenjun.wu"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="38"
+   name="SearchMapActivity.java"
+   text-time="2013-12-04T15:18:58.499966Z"
+   committed-date="2013-12-03T12:21:58.608061Z"
+   checksum="9b2fb5bc8f2c783d9c741bc0df08a7c8"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.369959Z"/>
+<entry
+   committed-rev="73"
+   name="AdActivity.java"
+   text-time="2013-12-16T07:21:39.002348Z"
+   committed-date="2013-12-15T07:27:36.202054Z"
+   checksum="31499f051f7d64477e6652f297443a4b"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-16T07:21:38.880341Z"/>
+<entry
+   committed-rev="94"
+   name="MainActivity.java"
+   text-time="2013-12-27T15:59:20.983399Z"
+   committed-date="2013-12-27T16:02:41.819511Z"
+   checksum="1ee87c80f72a4bea092dce092fdc359c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-20T03:42:24.655837Z"/>
+<entry
+   committed-rev="1"
+   name="SearchActivity.java"
+   text-time="2013-12-04T15:18:58.538968Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="b5df84f79d67eb9d63db79c6f1984c12"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.395960Z"/>
+<entry
+   committed-rev="95"
+   name="BaseActivity.java"
+   text-time="2013-12-30T06:12:08.165697Z"
+   committed-date="2013-12-28T13:37:54.619670Z"
+   checksum="c16456cb69674613787e1875820371d4"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-30T06:12:08.134695Z"/>
+<entry
+   committed-rev="88"
+   name="SearchMapActivity_new.java"
+   text-time="2013-12-20T06:56:09.528518Z"
+   committed-date="2013-12-20T07:53:26.758819Z"
+   checksum="d091c7495df71aa163e315c7bc4445fb"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.431962Z"/>
+<entry
+   committed-rev="11"
+   name="ShareSinaActivity.java"
+   text-time="2013-12-04T15:18:58.574971Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="950bfca0b671a192d3943edb092f2c75"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.440963Z"/>
+<entry
+   committed-rev="96"
+   name="ParkingDetailActivity.java"
+   text-time="2013-12-30T08:11:41.385982Z"
+   committed-date="2013-12-31T02:41:13.466846Z"
+   checksum="75863a45dcbd4d16c907fba878e147bd"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-16T07:21:38.925343Z"
+   revision="96"/>
+<entry
+   committed-rev="81"
+   name="ShopPublishActivity.java"
+   text-time="2013-12-16T10:09:38.019835Z"
+   committed-date="2013-12-16T15:02:42.298241Z"
+   checksum="ef1d7864a359070dedc4eab9bfb1e6a8"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.457964Z"/>
+<entry
+   committed-rev="56"
+   name="MoreParkingDetailActivity.java"
+   text-time="2013-12-10T03:32:58.953465Z"
+   committed-date="2013-12-10T03:38:36.637993Z"
+   checksum="fbf9759cbe9b7454c9e147faadfb3d49"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-09T01:10:32.367750Z"/>
+<entry
+   committed-rev="93"
+   name="PostParkingActivity.java"
+   text-time="2013-12-27T07:20:33.714690Z"
+   committed-date="2013-12-27T08:55:47.772058Z"
+   checksum="361b2e17af9259b62f61fdf43792ca4e"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.474965Z"/>
+<entry
+   committed-rev="93"
+   name="SearchListActivity.java"
+   text-time="2013-12-27T07:53:38.727226Z"
+   committed-date="2013-12-27T08:55:47.772058Z"
+   checksum="15512610bb1cc1473ead018fbf41f86a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-16T07:21:38.964346Z"/>
+</wc-entries>

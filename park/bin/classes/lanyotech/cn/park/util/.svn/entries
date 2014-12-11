@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="95"
+   name=""
+   committed-date="2013-12-28T13:37:54.619670Z"
+   url="svn://git.ehoo.com/freepark/src/lanyotech/cn/park/util"
+   last-author="wenjun.wu"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="19"
+   name="JobQueue.java"
+   text-time="2013-12-04T15:18:59.409018Z"
+   committed-date="2013-11-28T03:42:59.448945Z"
+   checksum="795820fcb2ba1c352fe643a523b8575a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:59.286011Z"/>
+<entry
+   committed-rev="6"
+   name="AttributeSetInitUtil.java"
+   text-time="2013-12-04T15:18:59.424019Z"
+   committed-date="2013-11-23T08:19:35.936110Z"
+   checksum="4f078b3edbdc25d5664b00d2cdb2e80b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:59.295012Z"/>
+<entry
+   committed-rev="1"
+   name="DisplayUtil.java"
+   text-time="2013-12-04T15:18:59.438020Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="cb22687cb1b80dd0033b60c3b89e58aa"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:59.305012Z"/>
+<entry
+   committed-rev="59"
+   name="IoUtil.java"
+   text-time="2013-12-10T08:06:23.263738Z"
+   committed-date="2013-12-10T13:18:57.255441Z"
+   checksum="6b2da8ba7cb1b45d083824a7d0fd8947"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:59.315013Z"/>
+<entry
+   committed-rev="95"
+   name="ErrorUtil.java"
+   text-time="2013-12-30T06:12:08.273703Z"
+   committed-date="2013-12-28T13:37:54.619670Z"
+   checksum="2ec3331a5a4a8ff148e03573c15918a6"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-30T06:12:08.228701Z"/>
+<entry
+   committed-rev="11"
+   name="SinaConstants.java"
+   text-time="2013-12-04T15:18:59.475022Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="146922285ef851a0246a0c393b09fecb"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:18:59.333014Z"/>
+<entry
+   committed-rev="13"
+   name="ViewUtil.java"
+   text-time="2013-12-04T15:18:59.487023Z"
+   committed-date="2013-11-25T10:07:04.133969Z"
+   checksum="7d2e5d974f3482d2e20e45f97432caf6"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:59.344015Z"/>
+<entry
+   committed-rev="19"
+   name="BitmapUtil.java"
+   text-time="2013-12-04T15:18:59.498023Z"
+   committed-date="2013-11-28T03:42:59.448945Z"
+   checksum="619e338ec39de03e66dbb8b150fffb46"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:59.355015Z"/>
+<entry
+   committed-rev="88"
+   name="SetNameUtil.java"
+   text-time="2013-12-20T07:44:31.652510Z"
+   committed-date="2013-12-20T07:53:26.758819Z"
+   checksum="9887d3106f517320d97c16518b98235c"
+   last-author="long"
+   kind="file"/>
+<entry
+   committed-rev="1"
+   name="ToastUtils.java"
+   text-time="2013-12-04T15:18:59.510024Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="8bd3df7f6a10c8ada8e98e0d21574abd"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:59.365016Z"/>
+<entry
+   committed-rev="4"
+   name="DensityUtil.java"
+   text-time="2013-12-04T15:18:59.523025Z"
+   committed-date="2013-11-22T10:17:39.696022Z"
+   checksum="c3b037a48267c5b39eb32429d595930b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:59.374016Z"/>
+<entry
+   committed-rev="2"
+   name="AsyncTaskWithoutPool.java"
+   text-time="2013-12-04T15:18:59.535025Z"
+   committed-date="2013-11-21T06:48:56.128022Z"
+   checksum="fd6fdb3c8d2a06e0fcaf1a1c617a506c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:59.383017Z"/>
+<entry
+   committed-rev="14"
+   name="ChooseDialogUtil.java"
+   text-time="2013-12-04T15:18:59.551026Z"
+   committed-date="2013-11-26T09:44:21.092777Z"
+   checksum="9bb686dd9136a75a9b9b69abcc01c30b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:59.392017Z"/>
+</wc-entries>

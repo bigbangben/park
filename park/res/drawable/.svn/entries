@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="37"
+   name=""
+   committed-date="2013-12-03T10:24:37.582251Z"
+   url="svn://git.ehoo.com/freepark/res/drawable"
+   last-author="wenjun.wu"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="29"
+   name="titleicon_main_people.xml"
+   text-time="2013-12-04T15:19:18.411105Z"
+   committed-date="2013-12-02T12:44:44.623448Z"
+   checksum="97ec752ac2e03205bc8eea2d422c4dbb"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.359102Z"/>
+<entry
+   committed-rev="11"
+   name="btn_alert_black.xml"
+   text-time="2013-12-04T15:19:18.423106Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="ed833b5340629d577d51708667fd903a"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.366103Z"/>
+<entry
+   committed-rev="37"
+   name="titleicon_main_exit.xml"
+   text-time="2013-12-04T15:19:18.436107Z"
+   committed-date="2013-12-03T10:24:37.582251Z"
+   checksum="d708e3d76987cf9f74d76052587bf7ce"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.374103Z"/>
+<entry
+   committed-rev="29"
+   name="titleicon_main_list.xml"
+   text-time="2013-12-04T15:19:18.449107Z"
+   committed-date="2013-12-02T12:44:44.623448Z"
+   checksum="c33419ba2f90e411456612b0c09559dd"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.382103Z"/>
+<entry
+   committed-rev="11"
+   name="btn_alert.xml"
+   text-time="2013-12-04T15:19:18.460108Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="fe4faa23a561dd95f8cdafe5b924f65b"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.390104Z"/>
+<entry
+   committed-rev="29"
+   name="titleicon_main_map.xml"
+   text-time="2013-12-04T15:19:18.472109Z"
+   committed-date="2013-12-02T12:44:44.623448Z"
+   checksum="b6b7c94c7026ee153692b5ea99255ab1"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.397104Z"/>
+</wc-entries>

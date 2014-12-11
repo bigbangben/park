@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="89"
+   name=""
+   committed-date="2013-12-20T09:47:13.533137Z"
+   url="svn://git.ehoo.com/freepark/res/values"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="89"
+   name="styles.xml"
+   text-time="2013-12-20T09:27:46.580840Z"
+   committed-date="2013-12-20T09:47:13.533137Z"
+   checksum="d0db77cacb6e13db3938be20aa9121eb"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.214094Z"/>
+<entry
+   committed-rev="14"
+   name="strings.xml"
+   text-time="2013-12-04T15:19:18.271097Z"
+   committed-date="2013-11-26T09:44:21.092777Z"
+   checksum="af3d712cb2b54047760692eba27c64ac"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.222094Z"/>
+<entry
+   committed-rev="48"
+   name="color.xml"
+   text-time="2013-12-07T13:46:14.131410Z"
+   committed-date="2013-12-07T13:55:50.315633Z"
+   checksum="e3521df041fb5c2aa1df2658b55971f3"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.230095Z"/>
+<entry
+   committed-rev="89"
+   name="dimens.xml"
+   text-time="2013-12-20T09:13:13.719915Z"
+   committed-date="2013-12-20T09:47:13.533137Z"
+   checksum="0407ce2c322c13df9650b73b08384238"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.238095Z"/>
+</wc-entries>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="22"
+   name=""
+   committed-date="2013-11-30T12:29:52.472651Z"
+   url="svn://git.ehoo.com/freepark/src/com/shengda"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   name="freepark"
+   kind="dir"/>
+</wc-entries>

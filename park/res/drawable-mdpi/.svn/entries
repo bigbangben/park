@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2013-11-21T03:38:38.580405Z"
+   url="svn://git.ehoo.com/freepark/res/drawable-mdpi"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="1"
+   name="ic_launcher.png"
+   text-time="2013-12-04T15:19:23.686407Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="0ae8d7c003efea5db2c7f22c86b2cf0c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.637404Z"/>
+<entry
+   committed-rev="1"
+   name="dot.xml"
+   text-time="2013-12-04T15:19:23.709408Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="3bd16f83cf997f1627b5f9ad15d05e65"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.644404Z"/>
+<entry
+   committed-rev="1"
+   name="dot_black.png"
+   text-time="2013-12-04T15:19:23.729409Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="a0b9ef3065288b851d7cc302250a8c34"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.653405Z"/>
+<entry
+   committed-rev="1"
+   name="dot_white.png"
+   text-time="2013-12-04T15:19:23.743410Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="cb4ecd9456365d3409363af5e768e17c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.664406Z"/>
+</wc-entries>

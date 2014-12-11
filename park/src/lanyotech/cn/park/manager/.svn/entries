@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="57"
+   name=""
+   committed-date="2013-12-10T03:41:00.445516Z"
+   url="svn://git.ehoo.com/freepark/src/lanyotech/cn/park/manager"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="5"
+   name="BaiduManager.java"
+   text-time="2013-12-04T15:18:58.198949Z"
+   committed-date="2013-11-23T04:16:43.136933Z"
+   checksum="56c47fa19eb3b08f1f771ba5273142b1"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.128945Z"/>
+<entry
+   committed-rev="47"
+   name="ParkWindowManager.java"
+   text-time="2013-12-07T10:11:30.309498Z"
+   committed-date="2013-12-07T12:30:59.914794Z"
+   checksum="7bcb05b5b6be4d49713ae4f8ba0e8163"
+   last-author="long"
+   kind="file"/>
+<entry
+   committed-rev="57"
+   name="SerializableManager.java"
+   text-time="2013-12-09T08:43:13.902456Z"
+   committed-date="2013-12-10T03:41:00.445516Z"
+   checksum="54ea665291af539550995f404e2e1b00"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.138946Z"/>
+<entry
+   committed-rev="6"
+   name="ParkingManager.java"
+   text-time="2013-12-04T15:18:58.280954Z"
+   committed-date="2013-11-23T08:19:35.936110Z"
+   checksum="eadb853101ba826c4b2bf3981710dafe"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.159947Z"/>
+<entry
+   committed-rev="33"
+   name="BitmapManager.java"
+   text-time="2013-12-04T15:18:58.299955Z"
+   committed-date="2013-12-02T15:32:17.957225Z"
+   checksum="7a751a16a20c8088d6f8533a9a652b6a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.170947Z"/>
+<entry
+   committed-rev="47"
+   name="UserManager.java"
+   text-time="2013-12-07T03:40:45.493531Z"
+   committed-date="2013-12-07T12:30:59.914794Z"
+   checksum="eeaa852c84c0a442d06d64e7931dd342"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.180948Z"/>
+</wc-entries>

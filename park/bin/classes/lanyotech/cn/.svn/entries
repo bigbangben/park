@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="95"
+   name=""
+   committed-date="2013-12-28T13:37:54.619670Z"
+   url="svn://git.ehoo.com/freepark/src/lanyotech/cn"
+   last-author="wenjun.wu"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   name="park"
+   kind="dir"/>
+</wc-entries>

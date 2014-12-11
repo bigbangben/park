@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="70"
+   name=""
+   committed-date="2013-12-13T16:58:01.550926Z"
+   url="svn://git.ehoo.com/freepark/src/lanyotech/cn/park/component"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="1"
+   name="AdaptationTextView.java"
+   text-time="2013-12-04T15:18:50.463507Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="d99f962436e4aa9fcbd74f8c217716dd"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.392503Z"/>
+<entry
+   committed-rev="14"
+   name="TextOverlayItem.java"
+   text-time="2013-12-04T15:18:50.475507Z"
+   committed-date="2013-11-26T09:44:21.092777Z"
+   checksum="6b20d019513d4215ef81c312950379db"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.400503Z"/>
+<entry
+   committed-rev="37"
+   name="TopBarPanel.java"
+   text-time="2013-12-04T15:18:50.488508Z"
+   committed-date="2013-12-03T10:24:37.582251Z"
+   checksum="e646ba0bd63327d23792f512264fae9f"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.408503Z"/>
+<entry
+   committed-rev="1"
+   name="LoadingMask.java"
+   text-time="2013-12-04T15:18:50.503509Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="c81e4a9f04b5781c3d38bd47b86172fe"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.417504Z"/>
+<entry
+   committed-rev="9"
+   name="BaseDialog.java"
+   text-time="2013-12-04T15:18:50.515510Z"
+   committed-date="2013-11-24T09:23:00.108244Z"
+   checksum="6fe629747278351ba67d18db0c8b1d4b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.424504Z"/>
+<entry
+   committed-rev="1"
+   name="SequentialPanel.java"
+   text-time="2013-12-04T15:18:50.527510Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="9537ef47a33eabf6d4a26086cc324391"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.433505Z"/>
+<entry
+   committed-rev="70"
+   name="GraphicImageView.java"
+   text-time="2013-12-13T16:58:23.617406Z"
+   committed-date="2013-12-13T16:58:01.550926Z"
+   checksum="43e8622060a315903201c78b25750859"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-13T16:58:23.599405Z"/>
+<entry
+   committed-rev="26"
+   name="SequentialPanelImpl.java"
+   text-time="2013-12-04T15:18:50.552512Z"
+   committed-date="2013-12-01T16:05:20.906053Z"
+   checksum="f73a9a9b60134c660a61cb33ac8f86c7"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:50.448506Z"/>
+</wc-entries>

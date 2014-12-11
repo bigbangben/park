@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="23"
+   name=""
+   committed-date="2013-11-30T12:36:20.686732Z"
+   url="svn://git.ehoo.com/freepark/libs"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   name="armeabi"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="httpmime-4.3.1.jar"
+   text-time="2013-12-04T15:19:17.984081Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="4106820eec9b85dca9b8a1f63677295b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:04.451307Z"/>
+<entry
+   committed-rev="1"
+   name="commons-codec-1.8.jar"
+   text-time="2013-12-04T15:19:18.005082Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="b87aa66fe75685c82d082e750ab51b2e"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:06.230408Z"/>
+<entry
+   committed-rev="8"
+   name="mta-sdk-1.0.0.jar"
+   text-time="2013-12-04T15:19:18.018083Z"
+   committed-date="2013-11-23T11:03:48.844797Z"
+   checksum="0cc0e3fd657de07156cf92d2a8120635"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:06.482423Z"/>
+<entry
+   committed-rev="1"
+   name="protobuf-java-2.5.0.jar"
+   text-time="2013-12-04T15:19:18.039084Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="a44473b98947e2a54c54e0db1387d137"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:09.551598Z"/>
+<entry
+   committed-rev="1"
+   name="locSDK_3.1.jar"
+   text-time="2013-12-04T15:19:18.051085Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="b92848acbcc4aa27312e2d03572e1f94"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:09.943621Z"/>
+<entry
+   committed-rev="11"
+   name="weibosdkcore.jar"
+   text-time="2013-12-04T15:19:18.064085Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="f830c348e1fb80558fdc6d24ed1d65f4"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:10.391646Z"/>
+<entry
+   committed-rev="1"
+   name="android-support-v4.jar"
+   text-time="2013-12-04T15:19:18.084086Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="8ec28ddd6c1b954bfa1fa54c5df54eba"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:12.728780Z"/>
+<entry
+   committed-rev="8"
+   name="open_sdk.jar"
+   text-time="2013-12-04T15:19:18.101087Z"
+   committed-date="2013-11-23T11:03:48.844797Z"
+   checksum="0bd21f5a2db7881e419155b806c26272"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:14.179863Z"/>
+<entry
+   committed-rev="1"
+   name="baidumapapi_v2_2_0.jar"
+   text-time="2013-12-04T15:19:18.126089Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="87cdc8e6c655812e27c986287f996140"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:17.410048Z"/>
+<entry
+   committed-rev="11"
+   name="libammsdk.jar"
+   text-time="2013-12-04T15:19:18.140090Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="3c77be8d418d3d8f7e0555478005bdbc"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:17.962079Z"/>
+</wc-entries>

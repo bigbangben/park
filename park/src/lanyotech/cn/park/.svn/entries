@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="95"
+   name=""
+   committed-date="2013-12-28T13:37:54.619670Z"
+   url="svn://git.ehoo.com/freepark/src/lanyotech/cn/park"
+   last-author="wenjun.wu"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   name="service"
+   kind="dir"/>
+<entry
+   name="component"
+   kind="dir"/>
+<entry
+   name="application"
+   kind="dir"/>
+<entry
+   name="net"
+   kind="dir"/>
+<entry
+   name="protoc"
+   kind="dir"/>
+<entry
+   name="domain"
+   kind="dir"/>
+<entry
+   name="define"
+   kind="dir"/>
+<entry
+   name="manager"
+   kind="dir"/>
+<entry
+   name="activity"
+   kind="dir"/>
+<entry
+   name="layout"
+   kind="dir"/>
+<entry
+   name="util"
+   kind="dir"/>
+</wc-entries>

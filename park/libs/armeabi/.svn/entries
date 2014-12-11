@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="23"
+   name=""
+   committed-date="2013-11-30T12:36:20.686732Z"
+   url="svn://git.ehoo.com/freepark/libs/armeabi"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="23"
+   name="libBaiduMapSDK_v2_2_0.so"
+   text-time="2013-12-04T15:19:04.356301Z"
+   committed-date="2013-11-30T12:36:20.686732Z"
+   checksum="b08152b5b4873f5493e0109e4131863f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:04.167290Z"/>
+<entry
+   committed-rev="23"
+   name="liblocSDK3.so"
+   text-time="2013-12-04T15:19:04.372302Z"
+   committed-date="2013-11-30T12:36:20.686732Z"
+   checksum="2c9f139bf4d57b72f46e9e3009f4f582"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:04.310299Z"/>
+</wc-entries>

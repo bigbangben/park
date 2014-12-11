@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_vg_titleHeight"
+        android:background="@drawable/common_title_bg" >
+
+        <TextView
+            android:id="@+id/sPublish_tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="@string/sPublish_tv_publishShop"
+            android:textColor="#ffffff"
+            android:textSize="17sp" />
+
+        <ImageButton
+            android:id="@+id/sPublish_ib_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="6dp"
+            android:background="@null"
+            android:contentDescription="@null"
+            android:src="@drawable/button_title_back_bg" />
+
+        <Button
+            android:id="@+id/sPublish_btn_right"
+            android:layout_width="45dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="6dp"
+            android:background="@drawable/common__btn_bg__right_of_title_sel"
+            android:text="@string/sPublish_btn_nextStep"
+            android:textColor="#ffffff"
+            android:textSize="12sp" />
+
+        <ProgressBar
+            android:id="@+id/sPublish_pb_"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="2dp"
+            android:layout_toRightOf="@id/sPublish_tv_title"
+            android:indeterminate="true"
+            android:minHeight="18dp"
+            android:minWidth="18dp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/sPublish_vg_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+    </LinearLayout>
+
+</LinearLayout>

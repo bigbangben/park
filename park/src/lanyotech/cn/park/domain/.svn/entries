@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="42"
+   name=""
+   committed-date="2013-12-04T15:17:12.096008Z"
+   url="svn://git.ehoo.com/freepark/src/lanyotech/cn/park/domain"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="42"
+   name="RequestAction.java"
+   text-time="2013-12-04T15:18:57.920933Z"
+   committed-date="2013-12-04T15:17:12.096008Z"
+   checksum="df69dca10f57b63cc9253df90ad3bebd"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:57.695920Z"/>
+<entry
+   committed-rev="1"
+   name="Request.java"
+   text-time="2013-12-04T15:18:57.933934Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="7296aa68cec4b23664a20139463dc032"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:57.703921Z"/>
+<entry
+   name="dianping"
+   kind="dir"/>
+<entry
+   committed-rev="14"
+   name="ErrorType.java"
+   text-time="2013-12-04T15:18:57.947935Z"
+   committed-date="2013-11-26T09:44:21.092777Z"
+   checksum="224aa7e93a2f83eee3c5dee954bbe9fd"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:57.893932Z"/>
+<entry
+   committed-rev="1"
+   name="Result.java"
+   text-time="2013-12-04T15:18:57.961935Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="a9a652b975e216b85d4f7e04bf7cb0dc"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:57.902932Z"/>
+</wc-entries>

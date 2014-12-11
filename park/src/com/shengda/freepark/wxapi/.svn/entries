@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="22"
+   name=""
+   committed-date="2013-11-30T12:29:52.472651Z"
+   url="svn://git.ehoo.com/freepark/src/com/shengda/freepark/wxapi"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="22"
+   name="WXEntryActivity.java"
+   text-time="2013-12-04T15:18:59.711036Z"
+   committed-date="2013-11-30T12:29:52.472651Z"
+   checksum="10d7d9cbb7e73f4de00aca4c5620ee7a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:59.696035Z"/>
+</wc-entries>

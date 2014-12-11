@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11"
+   name=""
+   committed-date="2013-11-25T07:38:02.021890Z"
+   url="svn://git.ehoo.com/freepark/res/anim"
+   last-author="wenjun.wu"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="2"
+   name="from_left_to_right_hide.xml"
+   text-time="2013-12-04T15:19:23.499396Z"
+   committed-date="2013-11-21T06:48:56.128022Z"
+   checksum="27733fed645ecbba510c35555d2891d6"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.444393Z"/>
+<entry
+   committed-rev="2"
+   name="from_right_to_left_hide.xml"
+   text-time="2013-12-04T15:19:23.510397Z"
+   committed-date="2013-11-21T06:48:56.128022Z"
+   checksum="73952731fc1f6f04b714082190f83bf0"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.452393Z"/>
+<entry
+   committed-rev="11"
+   name="dialog_exit.xml"
+   text-time="2013-12-04T15:19:23.521397Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="9d85353a0f483b30988579dbe35973ff"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.460394Z"/>
+<entry
+   committed-rev="11"
+   name="dialog_enter.xml"
+   text-time="2013-12-04T15:19:23.532398Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="15a3f159a47ac2fb228e13d2d6bf3980"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.468394Z"/>
+<entry
+   committed-rev="2"
+   name="from_left_to_right_show.xml"
+   text-time="2013-12-04T15:19:23.543399Z"
+   committed-date="2013-11-21T06:48:56.128022Z"
+   checksum="905904c5e5c1d9a0f5716f6ac0070fcb"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.476395Z"/>
+<entry
+   committed-rev="2"
+   name="from_right_to_left_show.xml"
+   text-time="2013-12-04T15:19:23.555399Z"
+   committed-date="2013-11-21T06:48:56.128022Z"
+   checksum="7220f85bc81f5b0c60fcc4c165a9bf95"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.484395Z"/>
+</wc-entries>

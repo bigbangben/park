@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="65"
+   name=""
+   committed-date="2013-12-13T13:17:03.739201Z"
+   url="svn://git.ehoo.com/freepark/res/drawable-hdpi"
+   last-author="wenjun.wu"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="1"
+   name="search_add_bg2_pressed.png"
+   text-time="2013-12-04T15:19:20.807242Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="686df7bdaf4491657833eb9297935b2a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.518111Z"/>
+<entry
+   committed-rev="1"
+   name="detailicon_review.png"
+   text-time="2013-12-04T15:19:20.819243Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="83f3e54559f15fc9893f6475360cb664"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.526112Z"/>
+<entry
+   committed-rev="1"
+   name="listfilter_once_selected.png"
+   text-time="2013-12-04T15:19:20.831244Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="59a0764ebe37c0d34f14a27f9dba4ecc"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.535112Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_chosepointbg_sel.xml"
+   text-time="2013-12-04T15:19:20.844244Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="ea587f3a4d3f46a92312556c0fa6e27f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.543113Z"/>
+<entry
+   committed-rev="1"
+   name="commonicon_choose.png"
+   text-time="2013-12-04T15:19:20.856245Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="363c466145885dc6748bd05c13445766"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.552113Z"/>
+<entry
+   committed-rev="1"
+   name="dot.xml"
+   text-time="2013-12-04T15:19:20.868246Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="3bd16f83cf997f1627b5f9ad15d05e65"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.560114Z"/>
+<entry
+   committed-rev="1"
+   name="home_list_logo.png"
+   text-time="2013-12-04T15:19:20.879246Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="87713c47d7f65ab4d2f28b9c90a505bd"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.568114Z"/>
+<entry
+   committed-rev="1"
+   name="listbg_2.png"
+   text-time="2013-12-04T15:19:20.890247Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="3b304b8fcc9c9a8deecddb183f97467f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.578115Z"/>
+<entry
+   committed-rev="1"
+   name="home_list_sample1.png"
+   text-time="2013-12-04T15:19:20.901248Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="6e9b5677b81ca7e0d1c03768a967f138"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.587115Z"/>
+<entry
+   committed-rev="1"
+   name="home_list_sample3.png"
+   text-time="2013-12-04T15:19:20.912248Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="de8c2d6490f6ee94c003d649eca5713a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.597116Z"/>
+<entry
+   committed-rev="1"
+   name="common__btn_bg__right_of_title_normal.xml"
+   text-time="2013-12-04T15:19:20.924249Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="8a79e2c497d113c8e3124cf9fd0130b0"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.606116Z"/>
+<entry
+   committed-rev="1"
+   name="home_list_sample5.png"
+   text-time="2013-12-04T15:19:20.938250Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="c9c1f57b8043d6c4c9727ff72a80467b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.614117Z"/>
+<entry
+   committed-rev="1"
+   name="search_add_bg_pressed.png"
+   text-time="2013-12-04T15:19:20.949250Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="137320e3ad382c78dd87377831fdb7cc"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.626117Z"/>
+<entry
+   committed-rev="1"
+   name="map_car_2.jpg"
+   text-time="2013-12-04T15:19:20.960251Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="6d4b6b81c8ef56ed8af26ed295af6110"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.635118Z"/>
+<entry
+   committed-rev="1"
+   name="listicon_web.png"
+   text-time="2013-12-04T15:19:20.982252Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="63931caf7694b9bc42a798be65ba3e6b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.654119Z"/>
+<entry
+   committed-rev="1"
+   name="map_car_4.jpg"
+   text-time="2013-12-04T15:19:20.971252Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="28917d52a27011b157042a355db32c86"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.644118Z"/>
+<entry
+   committed-rev="4"
+   name="choosepointbtn_pressed.png"
+   text-time="2013-12-04T15:19:20.994253Z"
+   committed-date="2013-11-22T10:17:39.696022Z"
+   checksum="125408b8f778f401e84a1c1fcadbeb7a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.663120Z"/>
+<entry
+   committed-rev="1"
+   name="search_bg.9.png"
+   text-time="2013-12-04T15:19:21.016254Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="2db3234857e8e62f80cd2367fcbb1d1f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.682121Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_10_normal.png"
+   text-time="2013-12-04T15:19:21.005253Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="a8b18cf683c30aa8095dc8ce9cdc5cdc"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.673120Z"/>
+<entry
+   committed-rev="1"
+   name="listfilter_limit_selected.png"
+   text-time="2013-12-04T15:19:21.027255Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="b367b9dc26081ddaa37f9626c2488add"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.691121Z"/>
+<entry
+   committed-rev="1"
+   name="label_search_bg.xml"
+   text-time="2013-12-04T15:19:21.039255Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="d65d73f31e1161c1d8dfe176782c8e09"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.700122Z"/>
+<entry
+   committed-rev="4"
+   name="submit_10_bg_sel_.xml"
+   text-time="2013-12-04T15:19:21.061257Z"
+   committed-date="2013-11-22T10:17:39.696022Z"
+   checksum="ff8cda83004247d31270a81d5047f313"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.717123Z"/>
+<entry
+   committed-rev="11"
+   name="btn_alert_normal.9.png"
+   text-time="2013-12-04T15:19:21.050256Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="aff51d6ecf15bf5c765f6e2a4db551ea"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.709122Z"/>
+<entry
+   committed-rev="1"
+   name="commonicon_notselected.png"
+   text-time="2013-12-04T15:19:21.086258Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="8fd3dfca32b35f7b45b8856997fd06ad"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.734124Z"/>
+<entry
+   committed-rev="1"
+   name="detail_logo_bg.png"
+   text-time="2013-12-04T15:19:21.073257Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="0d112979296b0acd61eb07a1b6e0290d"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.725123Z"/>
+<entry
+   committed-rev="1"
+   name="home_list_good.png"
+   text-time="2013-12-04T15:19:21.097259Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="20ae82335941a43c9e49a444ce71445d"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.743124Z"/>
+<entry
+   committed-rev="1"
+   name="commonicon_loc.png"
+   text-time="2013-12-04T15:19:21.134261Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="89f46a552659786db79b3a6dcc439f59"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.772126Z"/>
+<entry
+   committed-rev="1"
+   name="commonicon_close_normal.png"
+   text-time="2013-12-04T15:19:21.122260Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="e4aa6099d9e20e5bcea9b209db3f3417"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.763125Z"/>
+<entry
+   committed-rev="1"
+   name="commonicon_search_normal.png"
+   text-time="2013-12-04T15:19:21.109259Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="6e857ef48a3be898c05f9f80b0f20c8e"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.753125Z"/>
+<entry
+   committed-rev="1"
+   name="common__btn_bg__right_of_title_sel.xml"
+   text-time="2013-12-04T15:19:21.147262Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="3e3f3f52e4bf94f4924eef1fd1af421b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.782126Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_p_normal.png"
+   text-time="2013-12-04T15:19:21.160262Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="2fa4638ed78e0b408c80caefa00f9fb5"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.792127Z"/>
+<entry
+   committed-rev="1"
+   name="listfilter_time_selected.png"
+   text-time="2013-12-04T15:19:21.171263Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="8ef95d30b0eeb7afb235ecae86f5c032"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.802127Z"/>
+<entry
+   committed-rev="1"
+   name="common__iv__dotted_line.xml"
+   text-time="2013-12-04T15:19:21.184264Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="c714d65a7e9880c597a133436505f8a5"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.811128Z"/>
+<entry
+   committed-rev="4"
+   name="titleicon_camera_normal.png"
+   text-time="2013-12-04T15:19:21.197264Z"
+   committed-date="2013-11-22T10:17:39.696022Z"
+   checksum="2af81f4064457ce776696afaaec0334d"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.821129Z"/>
+<entry
+   committed-rev="1"
+   name="common__btn_bg__sel.xml"
+   text-time="2013-12-04T15:19:21.210265Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="cbb1b18622bb62f915d8f72a138f0f23"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.830129Z"/>
+<entry
+   committed-rev="1"
+   name="listfilter_all_selected.png"
+   text-time="2013-12-04T15:19:21.227266Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="d11681c6466430c9fa2a1cb1d85102a5"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.838130Z"/>
+<entry
+   committed-rev="1"
+   name="dot_black.png"
+   text-time="2013-12-04T15:19:21.241267Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="a0b9ef3065288b851d7cc302250a8c34"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.848130Z"/>
+<entry
+   committed-rev="1"
+   name="titleicon_people_pressed.png"
+   text-time="2013-12-04T15:19:21.255268Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="45875e4398a6f4e4ffa5741576688327"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.857131Z"/>
+<entry
+   committed-rev="1"
+   name="common__btn_bg__right_of_title_pressed.xml"
+   text-time="2013-12-04T15:19:21.269269Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="3c26192e86e7763642ab358534cbcfa1"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.866131Z"/>
+<entry
+   committed-rev="11"
+   name="btn_alert_normal_black.9.png"
+   text-time="2013-12-04T15:19:21.282269Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="a57628ecde02e613efa8a84fba518cba"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.875132Z"/>
+<entry
+   committed-rev="11"
+   name="bg_alert.9.png"
+   text-time="2013-12-04T15:19:21.295270Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="0495534cafff15ae6a4c1c97849b8db6"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.884132Z"/>
+<entry
+   committed-rev="1"
+   name="commonicon_v.png"
+   text-time="2013-12-04T15:19:21.306271Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="1278381ba54a3e8a36a230ea917c7f2b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.893133Z"/>
+<entry
+   committed-rev="4"
+   name="titleicon_camera_pressed.png"
+   text-time="2013-12-04T15:19:21.319271Z"
+   committed-date="2013-11-22T10:17:39.696022Z"
+   checksum="d3ad423062b4f91e5edd850dbae64093"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.904133Z"/>
+<entry
+   committed-rev="1"
+   name="home__rb_bg__all_sel.xml"
+   text-time="2013-12-04T15:19:21.331272Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="af3953d92311c7acaf41bd7552a41082"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.914134Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_once_normal.png"
+   text-time="2013-12-04T15:19:21.343273Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="460f17bbc4a675dd25726c822584e914"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.924134Z"/>
+<entry
+   committed-rev="1"
+   name="listfilter_once_normal.png"
+   text-time="2013-12-04T15:19:21.356274Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="534dcf524fda36fda14200d88b0fbb1a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.935135Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_notchoose.png"
+   text-time="2013-12-04T15:19:21.369274Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="4457ba33df1512f7643bedeba4eb690f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.945136Z"/>
+<entry
+   committed-rev="1"
+   name="listicon_sina.png"
+   text-time="2013-12-04T15:19:21.380275Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="50b264abb157be8e42ddbcfa3167b103"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.955136Z"/>
+<entry
+   committed-rev="5"
+   name="common__vg_bg__input_mini.xml"
+   text-time="2013-12-04T15:19:21.394276Z"
+   committed-date="2013-11-23T04:16:43.136933Z"
+   checksum="debcf2f735bed3b787e0842ca4c73d3b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.966137Z"/>
+<entry
+   committed-rev="1"
+   name="detailicon_praise_pressed.png"
+   text-time="2013-12-04T15:19:21.408277Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="c7acba419fe0ebc2005d3075b6d804e6"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.975137Z"/>
+<entry
+   committed-rev="1"
+   name="home__list_item_bg__top.xml"
+   text-time="2013-12-04T15:19:21.421277Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="f14a4769e06c33a08573555b3019632f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.983138Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_5_selected.png"
+   text-time="2013-12-04T15:19:21.432278Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="a88f2a615ce50c9f94bf518455c7d58f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:18.992138Z"/>
+<entry
+   committed-rev="9"
+   name="pop_bg.9.png"
+   text-time="2013-12-04T15:19:21.443279Z"
+   committed-date="2013-11-24T09:23:00.108244Z"
+   checksum="6afa9ece6f0150959351a7fd7a677f16"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.000139Z"/>
+<entry
+   committed-rev="1"
+   name="praise_press_sel.xml"
+   text-time="2013-12-04T15:19:21.454279Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="0cfff9b4bae4227b3daed309e0cf0cb7"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.007139Z"/>
+<entry
+   committed-rev="1"
+   name="search_add_bg2_normal.png"
+   text-time="2013-12-04T15:19:21.466280Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="6f8ff14c4a54c70b6530dbfed72ec0d0"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.017140Z"/>
+<entry
+   committed-rev="4"
+   name="choose_point_bg_sel_.xml"
+   text-time="2013-12-04T15:19:21.478281Z"
+   committed-date="2013-11-22T10:17:39.696022Z"
+   checksum="ae1e0efb8cca4a365681e5e7b0901d11"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.024140Z"/>
+<entry
+   committed-rev="1"
+   name="commonicon_beselected.png"
+   text-time="2013-12-04T15:19:21.489281Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="4f9c043d5f8965adc634a28987945cb1"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.033141Z"/>
+<entry
+   committed-rev="1"
+   name="button_title_back_bg.xml"
+   text-time="2013-12-04T15:19:21.501282Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="77cb60959fb36e8170a3eba9f1e6d1b0"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.040141Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_p_pressed.png"
+   text-time="2013-12-04T15:19:21.513283Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="5492963527bf96bd7a32290be5375b7b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.048142Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_hour_selected.png"
+   text-time="2013-12-04T15:19:21.524283Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="18373400099066333572ad699a8fd1bc"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.056142Z"/>
+<entry
+   committed-rev="1"
+   name="map_enlarge_normal.png"
+   text-time="2013-12-04T15:19:21.535284Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="b78359e2459d4cc446b6e6b68121243f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.064142Z"/>
+<entry
+   committed-rev="1"
+   name="button_search_bg.xml"
+   text-time="2013-12-04T15:19:21.546284Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="99b7196b66b8e79e87dd674f3ab0da6c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.072143Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_20_selected.png"
+   text-time="2013-12-04T15:19:21.558285Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="06dd5d60f0df069ab27639eb4a25d1e4"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.080143Z"/>
+<entry
+   committed-rev="1"
+   name="pic_example.png"
+   text-time="2013-12-04T15:19:21.570286Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="5fe60eeb17ac9d24472a2ca8aff0ffce"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.089144Z"/>
+<entry
+   committed-rev="1"
+   name="listicon_password_2.png"
+   text-time="2013-12-04T15:19:21.581286Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="62826070a70dc752b5d22643f041ac3b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.098144Z"/>
+<entry
+   committed-rev="1"
+   name="home_list_distance.png"
+   text-time="2013-12-04T15:19:21.592287Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="bc1534d3bebfb95c5dd980a5253eaa87"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.106145Z"/>
+<entry
+   committed-rev="1"
+   name="home__rb_bg__limit_sel.xml"
+   text-time="2013-12-04T15:19:21.603288Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="411581932e5fe55eb36ecc1fd55cf04f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.113145Z"/>
+<entry
+   committed-rev="1"
+   name="map_enlarge_pressed.png"
+   text-time="2013-12-04T15:19:21.615288Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="034eda2010f17fe6382a4c106a98045c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.121146Z"/>
+<entry
+   committed-rev="1"
+   name="home__rb_bg__free_sel.xml"
+   text-time="2013-12-04T15:19:21.627289Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="bc6500faa5983ffe84495d0aa13afe50"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.129146Z"/>
+<entry
+   committed-rev="1"
+   name="serach_search_bg.png"
+   text-time="2013-12-04T15:19:21.638290Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="4cdbf03035f6e85ce4779f74bc259077"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.138147Z"/>
+<entry
+   committed-rev="1"
+   name="setbar_bg.xml"
+   text-time="2013-12-04T15:19:21.654291Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="66d8fc6f7da3a473d71b1e471c0babac"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.147147Z"/>
+<entry
+   committed-rev="11"
+   name="btn_alert_pressed.9.png"
+   text-time="2013-12-04T15:19:21.669291Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="a9a757d19379e076aaa963101b94803c"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.156148Z"/>
+<entry
+   committed-rev="1"
+   name="home__list_item_bg__bottom.xml"
+   text-time="2013-12-04T15:19:21.692293Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="aebe90b3434aa707c591ad72363ba0b5"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.172149Z"/>
+<entry
+   committed-rev="1"
+   name="home_list_divide.png"
+   text-time="2013-12-04T15:19:21.681292Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="c7886e059694d8974c405f539aa355a8"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.164148Z"/>
+<entry
+   committed-rev="1"
+   name="button_search_close_bg.xml"
+   text-time="2013-12-04T15:19:21.704293Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="4149fcfb66815ce0a8c26d935b5c21b5"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.180149Z"/>
+<entry
+   committed-rev="1"
+   name="titleicon_map_pressed.png"
+   text-time="2013-12-04T15:19:21.715294Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="dd5f64664c06316e4aaea60f82fd17f7"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.189150Z"/>
+<entry
+   committed-rev="4"
+   name="submit_5_bg_sel_.xml"
+   text-time="2013-12-04T15:19:21.727295Z"
+   committed-date="2013-11-22T10:17:39.696022Z"
+   checksum="0bfd1909089197f67fe9d86e0775c11e"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.196150Z"/>
+<entry
+   committed-rev="1"
+   name="home__rb_bg__time_sel.xml"
+   text-time="2013-12-04T15:19:21.739295Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="bbb9088c720ac6bf4de0cbcecf43eb8c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.205151Z"/>
+<entry
+   committed-rev="1"
+   name="listfilter_all_normal.png"
+   text-time="2013-12-04T15:19:21.750296Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="1a1a4a4444a2f5d2f8a60b8fe6c616d3"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.213151Z"/>
+<entry
+   committed-rev="1"
+   name="titleicon_back_normal.png"
+   text-time="2013-12-04T15:19:21.761297Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="6796ce5df50142b7b1220297f09586da"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.222151Z"/>
+<entry
+   committed-rev="1"
+   name="p_center__tv_dr__parking_sel.xml"
+   text-time="2013-12-04T15:19:21.773297Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="682aafecd570f327f8f0293ae3968098"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.230152Z"/>
+<entry
+   committed-rev="1"
+   name="dot_white.png"
+   text-time="2013-12-04T15:19:21.783298Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="cb4ecd9456365d3409363af5e768e17c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.238152Z"/>
+<entry
+   committed-rev="1"
+   name="search_wrong_icon.png"
+   text-time="2013-12-04T15:19:21.794299Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="780fe907e54005c54436ee193c1aaf8f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.246153Z"/>
+<entry
+   committed-rev="1"
+   name="detailicon_navigation.png"
+   text-time="2013-12-04T15:19:21.805299Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="cb7852b66398d61a26eccad8f27d5297"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.255153Z"/>
+<entry
+   committed-rev="1"
+   name="businessicon_small.png"
+   text-time="2013-12-04T15:19:21.817300Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="dde111f22cec3ddb83178609ccabb4f4"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.263154Z"/>
+<entry
+   committed-rev="2"
+   name="submit_once_bg_sel_.xml"
+   text-time="2013-12-04T15:19:21.840301Z"
+   committed-date="2013-11-21T06:48:56.128022Z"
+   checksum="799684b30c53621493733fed9e3ba306"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.279155Z"/>
+<entry
+   committed-rev="1"
+   name="titleicon_list_normal.png"
+   text-time="2013-12-04T15:19:21.827301Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="8943df29bad463a380fb5e6b46322420"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.271154Z"/>
+<entry
+   committed-rev="1"
+   name="commonicon_right.png"
+   text-time="2013-12-04T15:19:21.852302Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="4affcf2e718a0e8bb29d4f70530d5da2"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.288155Z"/>
+<entry
+   committed-rev="1"
+   name="titleicon_back_pressed.png"
+   text-time="2013-12-04T15:19:21.863303Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="ebf542e52b178c641acd9b06c632d0a8"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.296156Z"/>
+<entry
+   committed-rev="1"
+   name="listbg_1.png"
+   text-time="2013-12-04T15:19:21.886304Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="fe72699ee38e436d350a35e6252d55d0"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.314157Z"/>
+<entry
+   committed-rev="1"
+   name="home__rb_bg__once_sel.xml"
+   text-time="2013-12-04T15:19:21.874303Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="3503e009667a4959c52ef0e08f75e749"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.305156Z"/>
+<entry
+   committed-rev="4"
+   name="choosepointbtn_normal.png"
+   text-time="2013-12-04T15:19:21.908305Z"
+   committed-date="2013-11-22T10:17:39.696022Z"
+   checksum="c9ea05ffd41656b17b179e6ac052c1e8"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.394161Z"/>
+<entry
+   committed-rev="1"
+   name="home_list_sample2.png"
+   text-time="2013-12-04T15:19:21.897305Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="f14780d77daa60c3ccea807cd7175adc"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.323157Z"/>
+<entry
+   committed-rev="1"
+   name="home_list_sample4.png"
+   text-time="2013-12-04T15:19:21.919306Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="d340742a5a415e2974f95f31c491df70"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.405162Z"/>
+<entry
+   committed-rev="1"
+   name="home_list_sample6.png"
+   text-time="2013-12-04T15:19:21.930306Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="b9d2da3196b5edb28eb9b8bfb9a0b892"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.415163Z"/>
+<entry
+   committed-rev="1"
+   name="listicon_mobile.png"
+   text-time="2013-12-04T15:19:21.941307Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="db643df9e86ea6c4c7e03571d4c0ff6b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.426163Z"/>
+<entry
+   committed-rev="1"
+   name="common_btnbg_normal.png"
+   text-time="2013-12-04T15:19:21.963308Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="32264a2b4f12e56cbe6bff737ccba731"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.447164Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_business_pressed.png"
+   text-time="2013-12-04T15:19:21.952308Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="55d8485c02f83281f275832d6ea6838e"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.437164Z"/>
+<entry
+   committed-rev="1"
+   name="map_car_1.jpg"
+   text-time="2013-12-04T15:19:21.974309Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="ae61eb366605202ea59b22fdb9b5b1f7"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.471166Z"/>
+<entry
+   committed-rev="1"
+   name="common_input_bg.png"
+   text-time="2013-12-04T15:19:21.985310Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="6eb9fb8e6aea86166027f0df5e4feaf9"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.480166Z"/>
+<entry
+   committed-rev="1"
+   name="map_car_3.jpg"
+   text-time="2013-12-04T15:19:22.007311Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="283d9e118f645338e944c2f9849990ef"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.497167Z"/>
+<entry
+   committed-rev="1"
+   name="title_back_sel.xml"
+   text-time="2013-12-04T15:19:21.996310Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="5dbe30547b422d647991f5727b68a49a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.488167Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_hour_normal.png"
+   text-time="2013-12-04T15:19:22.017311Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="032cecdbaee7260a90f41de0497be310"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.506168Z"/>
+<entry
+   committed-rev="9"
+   name="pop_btnbg_normal.png"
+   text-time="2013-12-04T15:19:22.039313Z"
+   committed-date="2013-11-24T09:23:00.108244Z"
+   checksum="40eca37a81208288b0ecef302dadee87"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.525169Z"/>
+<entry
+   committed-rev="1"
+   name="map_car_5.jpg"
+   text-time="2013-12-04T15:19:22.028312Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="585b9e42491c1cf1390dc43a76ff8532"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.516168Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_10_selected.png"
+   text-time="2013-12-04T15:19:22.050313Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="16d58feabf6fd771bc248b02ea7a9e14"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.534169Z"/>
+<entry
+   committed-rev="1"
+   name="common__vg_bg__input.xml"
+   text-time="2013-12-04T15:19:22.091316Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="633b7f8325f295960c5af43c2966dda4"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.561171Z"/>
+<entry
+   committed-rev="1"
+   name="businessicon_big.png"
+   text-time="2013-12-04T15:19:22.075315Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="64556e73fc27e9dbcc1017a76bf7ab6f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.552170Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_20_normal.png"
+   text-time="2013-12-04T15:19:22.063314Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="1d2545f6d9fc6a0f43097ddf79b66ee2"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.543170Z"/>
+<entry
+   committed-rev="1"
+   name="map_point.png"
+   text-time="2013-12-04T15:19:22.107317Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="a8bff3c2f1b6b58c198cff4515939408"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.570171Z"/>
+<entry
+   committed-rev="65"
+   name="merchant_default_big.png"
+   text-time="2013-12-16T15:01:12.108421Z"
+   committed-date="2013-12-13T13:17:03.739201Z"
+   checksum="06f0fe56f254cf9e54024b8139b8ac31"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-16T15:01:11.393380Z"/>
+<entry
+   committed-rev="1"
+   name="listicon_publice.png"
+   text-time="2013-12-04T15:19:22.134318Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="541cf72df75681848a188c5f8a9b1133"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.588172Z"/>
+<entry
+   committed-rev="1"
+   name="detailicon_wrong.png"
+   text-time="2013-12-04T15:19:22.120317Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="2d1dcd3bcadefe98d211dcf47dd56404"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.578172Z"/>
+<entry
+   committed-rev="37"
+   name="titleicon_exit_normal.png"
+   text-time="2013-12-04T15:19:22.149319Z"
+   committed-date="2013-12-03T10:24:37.582251Z"
+   checksum="6bdbeda8779a163cd2a1e6ff7db4893c"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.596173Z"/>
+<entry
+   committed-rev="1"
+   name="search_add_bg_normal.png"
+   text-time="2013-12-04T15:19:22.163320Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="8bf6fb0e42e6c16827cfebbf360032f1"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.605173Z"/>
+<entry
+   committed-rev="9"
+   name="pop_btnbg_pressed.png"
+   text-time="2013-12-04T15:19:22.176320Z"
+   committed-date="2013-11-24T09:23:00.108244Z"
+   checksum="f8bb985352d3c711fc536104f501c1a5"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.612174Z"/>
+<entry
+   committed-rev="1"
+   name="register_btn.xml"
+   text-time="2013-12-04T15:19:22.189321Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="60bb5bcdf487f4ec198742259807343d"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.620174Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_chosepointbg_pressed.png"
+   text-time="2013-12-04T15:19:22.204322Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="97e3d3d22778841d583465b5df2a2c48"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.628175Z"/>
+<entry
+   committed-rev="1"
+   name="listicon_password.png"
+   text-time="2013-12-04T15:19:22.231324Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="452a91f4002ed3605a0f6b5ecd7958e4"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.646176Z"/>
+<entry
+   committed-rev="1"
+   name="titleicon_people_normal.png"
+   text-time="2013-12-04T15:19:22.218323Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="5b0f7c22caaab927660663512604cd31"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.636175Z"/>
+<entry
+   committed-rev="1"
+   name="listicon_appraise.png"
+   text-time="2013-12-04T15:19:22.246324Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="a3cc5ae1c0063d8bbd8a5f0e70ae910e"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.658176Z"/>
+<entry
+   committed-rev="1"
+   name="serach_search_icon_normal.png"
+   text-time="2013-12-04T15:19:22.260325Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="ccce36d7cb5c19c576c92c5483444346"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.667177Z"/>
+<entry
+   committed-rev="1"
+   name="commonicon_close_pressed.png"
+   text-time="2013-12-04T15:19:22.306328Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="005a1dff12b8753e84dec991ce92ae77"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.694178Z"/>
+<entry
+   committed-rev="1"
+   name="commonicon_search_pressed.png"
+   text-time="2013-12-04T15:19:22.291327Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="2db47dfe1b7a00457b73cd59dd48bf85"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.685178Z"/>
+<entry
+   committed-rev="1"
+   name="detailicon_repeat.png"
+   text-time="2013-12-04T15:19:22.276326Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="087553283f598fa31f18e284a15c6c56"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.675177Z"/>
+<entry
+   committed-rev="1"
+   name="map_reduce_normal.png"
+   text-time="2013-12-04T15:19:22.322329Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="e5a48a1fc72a285df23446511039c7de"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.703179Z"/>
+<entry
+   committed-rev="1"
+   name="listicon_about.png"
+   text-time="2013-12-04T15:19:22.338330Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="836211443c81e0e13d674fbcd25bbe1e"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.713180Z"/>
+<entry
+   committed-rev="3"
+   name="submit_chose_point_bg_sel_.xml"
+   text-time="2013-12-04T15:19:22.352331Z"
+   committed-date="2013-11-21T10:27:03.365147Z"
+   checksum="936b26ea39148f6b063390d31f8aa54f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.722180Z"/>
+<entry
+   committed-rev="5"
+   name="logo_114.png"
+   text-time="2013-12-04T15:19:22.367331Z"
+   committed-date="2013-11-23T04:16:43.136933Z"
+   checksum="7073dcd5f9beb92ccb6cc0bb9571eaf7"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.730181Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_free_selected.png"
+   text-time="2013-12-04T15:19:22.382332Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="7152a146fa1ce34652cfb59dddfa1299"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.738181Z"/>
+<entry
+   committed-rev="1"
+   name="detailicon_praise_normal.png"
+   text-time="2013-12-04T15:19:22.397333Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="06886999fb80de23589d0122048aebd1"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.746181Z"/>
+<entry
+   committed-rev="1"
+   name="serach_search_icon_pressed.png"
+   text-time="2013-12-04T15:19:22.410334Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="f44c5311471a063c2d5020c937e4b0d4"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.754182Z"/>
+<entry
+   committed-rev="1"
+   name="titleicon_loc.png"
+   text-time="2013-12-04T15:19:22.424335Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="b6f1316b4e233e6b5694f44233278273"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.762182Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_once_selected.png"
+   text-time="2013-12-04T15:19:22.440336Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="02b06e3d3bda8f713a9de1a72e0e4ecd"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.770183Z"/>
+<entry
+   committed-rev="1"
+   name="listicon_nickname.png"
+   text-time="2013-12-04T15:19:22.455336Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="29a4424fd86fd86a9480f761d47d73bb"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.779183Z"/>
+<entry
+   committed-rev="4"
+   name="submit_20_bg_sel_.xml"
+   text-time="2013-12-04T15:19:22.470337Z"
+   committed-date="2013-11-22T10:17:39.696022Z"
+   checksum="33e48abc735643661b75a410546e9e7c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.786184Z"/>
+<entry
+   committed-rev="65"
+   name="merchant_default_small.png"
+   text-time="2013-12-16T15:01:47.198764Z"
+   committed-date="2013-12-13T13:17:03.739201Z"
+   checksum="908df2e648ccf05970e6c513d20e22a3"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-16T15:01:47.158762Z"/>
+<entry
+   committed-rev="1"
+   name="titleicon_map_normal.png"
+   text-time="2013-12-04T15:19:22.483338Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="383b5b13810f2a55325ce94f5ccbeb2b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.795184Z"/>
+<entry
+   committed-rev="1"
+   name="home_list_vip.png"
+   text-time="2013-12-04T15:19:22.497339Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="30c2bd9affd40bb6db00466e408fe5e0"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.803185Z"/>
+<entry
+   committed-rev="1"
+   name="common_title_bg.png"
+   text-time="2013-12-04T15:19:22.511340Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="6141db19afc1fad58f9a53e81fecc777"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.811185Z"/>
+<entry
+   committed-rev="1"
+   name="detailicon_phone.png"
+   text-time="2013-12-04T15:19:22.525340Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="a6de88452ff0b075536381d53b3ed98c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.819186Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_5_normal.png"
+   text-time="2013-12-04T15:19:22.592344Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="97b939634a02af7bd06febb9cd394aec"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:19.827186Z"/>
+<entry
+   committed-rev="37"
+   name="titleicon_exit_pressed.png"
+   text-time="2013-12-04T15:19:22.606345Z"
+   committed-date="2013-12-03T10:24:37.582251Z"
+   checksum="b68de9e295f0625aa473de183cc5f6a8"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.515225Z"/>
+<entry
+   committed-rev="4"
+   name="titleicon__carama__sel.xml"
+   text-time="2013-12-04T15:19:22.623346Z"
+   committed-date="2013-11-22T10:17:39.696022Z"
+   checksum="68368fa7c2ba6138c28d883a7d7b2038"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.527226Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_choose.png"
+   text-time="2013-12-04T15:19:22.636347Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="d0a13f13086a41751202d9851abfe226"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.538227Z"/>
+<entry
+   committed-rev="1"
+   name="p_center__tv_dr__discount_sel.xml"
+   text-time="2013-12-04T15:19:22.649348Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="439f9f489d4b89a31b5a3a1fd5a10638"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.547227Z"/>
+<entry
+   committed-rev="1"
+   name="map_loc_normal.png"
+   text-time="2013-12-04T15:19:22.664348Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="8bc8375d10f534e640fa40123878924f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.559228Z"/>
+<entry
+   committed-rev="9"
+   name="pop_btn_bg_sel_.xml"
+   text-time="2013-12-04T15:19:22.680349Z"
+   committed-date="2013-11-24T09:23:00.108244Z"
+   checksum="9edae1cb7d55b1536fe2af05f68a4a36"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.567228Z"/>
+<entry
+   committed-rev="1"
+   name="listfilter_limit_normal.png"
+   text-time="2013-12-04T15:19:22.696350Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="059cbdf6ef0906e8d696d5b8d46af8c2"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.577229Z"/>
+<entry
+   committed-rev="1"
+   name="common__rb__sel.xml"
+   text-time="2013-12-04T15:19:22.713351Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="a0e8cdc11b6575dcd7aad5d0fd32fdb5"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.585229Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_chosepointbg_normal.png"
+   text-time="2013-12-04T15:19:22.733352Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="afedec5e60b9886159ef1bdd56a379f0"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.594230Z"/>
+<entry
+   committed-rev="1"
+   name="listicon_nobg.png"
+   text-time="2013-12-04T15:19:22.756354Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="119178e731c802f8ab3540e35e84953f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.602230Z"/>
+<entry
+   committed-rev="1"
+   name="common_btnbg_pressed.png"
+   text-time="2013-12-04T15:19:22.777355Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="cc7d29c6571373afff8185a13ad98213"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.610231Z"/>
+<entry
+   committed-rev="1"
+   name="firstpage_icon_loc.png"
+   text-time="2013-12-04T15:19:22.794356Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="f3cc0c1da1f98b8cc39310279189c4fb"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.619231Z"/>
+<entry
+   committed-rev="2"
+   name="submit_free_bg_sel_.xml"
+   text-time="2013-12-04T15:19:22.809357Z"
+   committed-date="2013-11-21T06:48:56.128022Z"
+   checksum="052b5f9c4a5448e5581d27e1e1fe8399"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.627232Z"/>
+<entry
+   committed-rev="1"
+   name="detailicon_more.png"
+   text-time="2013-12-04T15:19:22.823357Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="d8e4dd29378b4c0f3edc71bce3824a38"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.635232Z"/>
+<entry
+   committed-rev="1"
+   name="map_loc_pressed.png"
+   text-time="2013-12-04T15:19:22.837358Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="e27f90430f4f61120d6573a6623642f8"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.643233Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_business_normal.png"
+   text-time="2013-12-04T15:19:22.850359Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="212dc2dc0528cc7da6a51a253adad53b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.652233Z"/>
+<entry
+   committed-rev="1"
+   name="popup.png"
+   text-time="2013-12-04T15:19:22.863360Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="8b2b7d953f88aae5378acf2b7f0fcc96"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.660234Z"/>
+<entry
+   committed-rev="1"
+   name="listfilter_time_normal.png"
+   text-time="2013-12-04T15:19:22.876361Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="285cfc07da4d9a4ebe7ee5338a29f360"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.669234Z"/>
+<entry
+   committed-rev="1"
+   name="button_search_sumbit_bg.xml"
+   text-time="2013-12-04T15:19:22.889361Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="6f7acb00ca0daa6280afe4e5c67b95a5"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.677235Z"/>
+<entry
+   committed-rev="1"
+   name="label_search_bg2.xml"
+   text-time="2013-12-04T15:19:22.903362Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="c4f206028075b9df09328ccfcfa17e63"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.686235Z"/>
+<entry
+   committed-rev="1"
+   name="titleicon_list_pressed.png"
+   text-time="2013-12-04T15:19:22.916363Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="3bc94701071fdffc41368b579de6cce9"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.695236Z"/>
+<entry
+   committed-rev="1"
+   name="listicon_qq.png"
+   text-time="2013-12-04T15:19:22.930364Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="6c1c682967d140984d8da668af1af1bc"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.704236Z"/>
+<entry
+   committed-rev="1"
+   name="firstpage_icon_ok.png"
+   text-time="2013-12-04T15:19:22.945364Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="6dc2e3155e66119f0367f0ebaeb921db"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.717237Z"/>
+<entry
+   committed-rev="1"
+   name="submiticon_free_normal.png"
+   text-time="2013-12-04T15:19:22.959365Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="9e4d1a6f4b619787eebe19aa9662ed31"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.727238Z"/>
+<entry
+   committed-rev="2"
+   name="submit_hour_bg_sel_.xml"
+   text-time="2013-12-04T15:19:22.974366Z"
+   committed-date="2013-11-21T06:48:56.128022Z"
+   checksum="01e30ddfe4a2a968891f0c5b30292587"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.736238Z"/>
+<entry
+   committed-rev="1"
+   name="commonicon_down.png"
+   text-time="2013-12-04T15:19:22.989367Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="61e59a079eb016ab6860aa4f0d2daccc"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.750239Z"/>
+<entry
+   committed-rev="1"
+   name="app_bg.png"
+   text-time="2013-12-04T15:19:23.004368Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="7f179633902de56a73a30ca1f0530745"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.759239Z"/>
+<entry
+   committed-rev="1"
+   name="map_reduce_pressed.png"
+   text-time="2013-12-04T15:19:23.018369Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="cdfff4d2ba7e536652e3713cc0271415"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.767240Z"/>
+<entry
+   committed-rev="1"
+   name="listfilter_free_selected.png"
+   text-time="2013-12-04T15:19:23.033369Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="2b99c078fb21510f962333a55a7d221b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.782241Z"/>
+<entry
+   committed-rev="1"
+   name="listfilter_free_normal.png"
+   text-time="2013-12-04T15:19:23.092373Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="7b2088c641a31cf0a1d65a2328a9e766"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:20.792241Z"/>
+</wc-entries>

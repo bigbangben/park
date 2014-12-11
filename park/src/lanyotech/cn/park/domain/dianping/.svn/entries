@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7"
+   name=""
+   committed-date="2013-11-23T09:41:18.618450Z"
+   url="svn://git.ehoo.com/freepark/src/lanyotech/cn/park/domain/dianping"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="1"
+   name="Businesses.java"
+   text-time="2013-12-04T15:18:57.794926Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="e17c3addc9abcf45189b3a5e95354c64"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:57.733922Z"/>
+<entry
+   committed-rev="1"
+   name="IShopPublishListItem.java"
+   text-time="2013-12-04T15:18:57.807927Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="2c13f0ff292d3f4799974bef9631ce24"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:57.741923Z"/>
+<entry
+   committed-rev="3"
+   name="Categories.java"
+   text-time="2013-12-04T15:18:57.822928Z"
+   committed-date="2013-11-21T10:27:03.365147Z"
+   checksum="5848a6aef5fd78e30a57476c662b0d5f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:57.750923Z"/>
+<entry
+   committed-rev="3"
+   name="Regions.java"
+   text-time="2013-12-04T15:18:57.837928Z"
+   committed-date="2013-11-21T10:27:03.365147Z"
+   checksum="021d78bf18bc2f0d648814c21dc6782a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:57.760924Z"/>
+<entry
+   committed-rev="7"
+   name="Business.java"
+   text-time="2013-12-04T15:18:57.852929Z"
+   committed-date="2013-11-23T09:41:18.618450Z"
+   checksum="41c247aa7e7f31bd4aa880624f2a7090"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:57.768924Z"/>
+<entry
+   committed-rev="2"
+   name="ShopPublishListItem.java"
+   text-time="2013-12-04T15:18:57.866930Z"
+   committed-date="2013-11-21T06:48:56.128022Z"
+   checksum="668ec23bb4a5d0ab9c560e5997c707ef"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:57.777925Z"/>
+</wc-entries>

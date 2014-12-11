@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="92"
+   name=""
+   committed-date="2013-12-27T01:34:21.888473Z"
+   url="svn://git.ehoo.com/freepark/res/layout"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="78"
+   name="home__list__.xml"
+   text-time="2013-12-16T07:30:10.138583Z"
+   committed-date="2013-12-15T17:40:33.274544Z"
+   checksum="f0b36628f20ae833eae80a3f831483e3"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-16T07:30:09.868568Z"/>
+<entry
+   committed-rev="9"
+   name="dialog_assessapp.xml"
+   text-time="2013-12-04T15:19:24.323443Z"
+   committed-date="2013-11-24T09:23:00.108244Z"
+   checksum="a23aaa1dd3438f75316a66628893e0c6"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.860417Z"/>
+<entry
+   committed-rev="84"
+   name="parkingdetail_main.xml"
+   text-time="2013-12-18T01:45:08.025061Z"
+   committed-date="2013-12-18T03:58:26.845979Z"
+   checksum="f46de6dd225ae1b1ab9317367ece8f63"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-16T07:30:09.891569Z"/>
+<entry
+   committed-rev="5"
+   name="shop_publish__list_header__detail.xml"
+   text-time="2013-12-04T15:19:24.349445Z"
+   committed-date="2013-11-23T04:16:43.136933Z"
+   checksum="201a333233e1eaedcfcc58bbc09852d8"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.877418Z"/>
+<entry
+   committed-rev="33"
+   name="main.xml"
+   text-time="2013-12-04T15:19:24.364446Z"
+   committed-date="2013-12-02T15:32:17.957225Z"
+   checksum="7fb63227fafeb010fdf92a1295886fe6"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.886418Z"/>
+<entry
+   committed-rev="89"
+   name="parking_merchant_list_item.xml"
+   text-time="2013-12-20T09:40:39.234033Z"
+   committed-date="2013-12-20T09:47:13.533137Z"
+   checksum="8a2dd94e4642b855e611360c31814e7b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.894419Z"/>
+<entry
+   committed-rev="1"
+   name="button_search_close.xml"
+   text-time="2013-12-04T15:19:24.389447Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="caa1d335272331d97d1d154756e672fc"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.902419Z"/>
+<entry
+   committed-rev="56"
+   name="topbar_parkingdetail.xml"
+   text-time="2013-12-09T13:14:32.928360Z"
+   committed-date="2013-12-10T03:38:36.637993Z"
+   checksum="11031324a4346b04fc309b3ff45c1ab3"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.911420Z"/>
+<entry
+   committed-rev="76"
+   name="p_center__view__.xml"
+   text-time="2013-12-16T07:30:10.166585Z"
+   committed-date="2013-12-15T10:25:19.185901Z"
+   checksum="1ac5f64d9ca248471927b7005d622959"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-16T07:30:09.959573Z"/>
+<entry
+   committed-rev="10"
+   name="change_password_panel.xml"
+   text-time="2013-12-04T15:19:24.430449Z"
+   committed-date="2013-11-25T07:07:03.751215Z"
+   checksum="c613733805e5f0bd862232fbe28fa15f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.927421Z"/>
+<entry
+   committed-rev="73"
+   name="topbar_ad_list.xml"
+   text-time="2013-12-16T07:30:10.180586Z"
+   committed-date="2013-12-15T07:27:36.202054Z"
+   checksum="1a91ede12ace078cc2c36ba6921c5774"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-16T07:30:09.978574Z"/>
+<entry
+   committed-rev="1"
+   name="login_panel.xml"
+   text-time="2013-12-04T15:19:24.457451Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="dd61ba47a71f39d4ff19f785175d657a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.944422Z"/>
+<entry
+   committed-rev="25"
+   name="search_list_item_new.xml"
+   text-time="2013-12-04T15:19:24.469452Z"
+   committed-date="2013-12-01T11:25:54.513964Z"
+   checksum="aeb5e8fd67578a4c9c793e99c79ff65e"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.953422Z"/>
+<entry
+   committed-rev="25"
+   name="search_map_activity_new.xml"
+   text-time="2013-12-04T15:19:24.481452Z"
+   committed-date="2013-12-01T11:25:54.513964Z"
+   checksum="1dd50640ae7b82be7e2b4ebb6e8bdd61"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.961423Z"/>
+<entry
+   committed-rev="31"
+   name="dialog_about.xml"
+   text-time="2013-12-04T15:19:24.495453Z"
+   committed-date="2013-12-02T14:05:07.661809Z"
+   checksum="c4d93993d45dea5060cab4839a4fcb5a"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.970423Z"/>
+<entry
+   committed-rev="1"
+   name="map_parking_detail_panel.xml"
+   text-time="2013-12-04T15:19:24.524455Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="bae6334c70cc44d0987a67fb4cbccecf"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.977423Z"/>
+<entry
+   committed-rev="1"
+   name="base_dialog.xml"
+   text-time="2013-12-04T15:19:24.538456Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="dad864d9977dbb412844d040756581f3"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.985424Z"/>
+<entry
+   committed-rev="20"
+   name="layout_share_wechat.xml"
+   text-time="2013-12-04T15:19:24.550456Z"
+   committed-date="2013-11-28T09:21:12.070015Z"
+   checksum="81a66f0522a88b3bc209cb055855596c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:23.993424Z"/>
+<entry
+   committed-rev="10"
+   name="change_nickname.xml"
+   text-time="2013-12-04T15:19:24.564457Z"
+   committed-date="2013-11-25T07:07:03.751215Z"
+   checksum="e2fa71a15c09d74bc64582b4967b4548"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.000425Z"/>
+<entry
+   committed-rev="29"
+   name="topbar_main.xml"
+   text-time="2013-12-04T15:19:24.578458Z"
+   committed-date="2013-12-02T12:44:44.623448Z"
+   checksum="ce902f7a1ecad98ab6204db8793f545e"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.007425Z"/>
+<entry
+   committed-rev="72"
+   name="login__view__.xml"
+   text-time="2013-12-16T07:30:10.192586Z"
+   committed-date="2013-12-15T05:24:35.703165Z"
+   checksum="f625d3258e026244a341ff5e1b4bd2c4"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-16T07:30:10.000575Z"/>
+<entry
+   committed-rev="26"
+   name="ad_activity.xml"
+   text-time="2013-12-04T15:19:24.605459Z"
+   committed-date="2013-12-01T16:05:20.906053Z"
+   checksum="29267105ef5e396f037b6ae0025be465"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.022426Z"/>
+<entry
+   committed-rev="48"
+   name="search_dialog_panel.xml"
+   text-time="2013-12-07T13:46:44.874168Z"
+   committed-date="2013-12-07T13:55:50.315633Z"
+   checksum="7e1591e32952b07c9afd01ede37089db"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.029426Z"/>
+<entry
+   committed-rev="7"
+   name="shop_publish__view__input.xml"
+   text-time="2013-12-04T15:19:24.632461Z"
+   committed-date="2013-11-23T09:41:18.618450Z"
+   checksum="634a8ccc0f7eb4417a8a3b353bf479a5"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.037427Z"/>
+<entry
+   committed-rev="73"
+   name="topbar_search_list.xml"
+   text-time="2013-12-16T07:30:10.205587Z"
+   committed-date="2013-12-15T07:27:36.202054Z"
+   checksum="a1dbbcb7ed754d5696939b1c4efef54a"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-16T07:30:10.012576Z"/>
+<entry
+   committed-rev="2"
+   name="common__list_footer__normal.xml"
+   text-time="2013-12-04T15:19:24.660463Z"
+   committed-date="2013-11-21T06:48:56.128022Z"
+   checksum="67c378e17bdc0fa8feabaa59e49cda2b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.052428Z"/>
+<entry
+   committed-rev="2"
+   name="shop_publish__list_header__normal.xml"
+   text-time="2013-12-04T15:19:24.673463Z"
+   committed-date="2013-11-21T06:48:56.128022Z"
+   checksum="67c378e17bdc0fa8feabaa59e49cda2b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.059428Z"/>
+<entry
+   committed-rev="5"
+   name="shop_publish__activity__.xml"
+   text-time="2013-12-04T15:19:24.690464Z"
+   committed-date="2013-11-23T04:16:43.136933Z"
+   checksum="05c8ceb8d59c0dc0f303ceab6d46bb66"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.067429Z"/>
+<entry
+   committed-rev="10"
+   name="topbar_change_password.xml"
+   text-time="2013-12-04T15:19:24.703465Z"
+   committed-date="2013-11-25T07:07:03.751215Z"
+   checksum="46d8774c6decee39eee971e0225265a7"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.075429Z"/>
+<entry
+   committed-rev="25"
+   name="search_map_activity.xml"
+   text-time="2013-12-04T15:19:24.716466Z"
+   committed-date="2013-12-01T11:25:54.513964Z"
+   checksum="bc5c6ec08c0b84d2f636611ea1b66a5b"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.083430Z"/>
+<entry
+   committed-rev="76"
+   name="topbar_login.xml"
+   text-time="2013-12-16T07:30:10.218588Z"
+   committed-date="2013-12-15T10:25:19.185901Z"
+   checksum="ce166d629511627c351e71d351278695"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-16T07:30:10.046578Z"/>
+<entry
+   committed-rev="11"
+   name="layout_dialog_menu.xml"
+   text-time="2013-12-04T15:19:24.743467Z"
+   committed-date="2013-11-25T07:38:02.021890Z"
+   checksum="0f1c98ae3a8656b906f16fe09eb6bf6a"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.098430Z"/>
+<entry
+   committed-rev="86"
+   name="home__list_header__reload_prompt.xml"
+   text-time="2013-12-20T03:42:24.732842Z"
+   committed-date="2013-12-18T17:26:38.184490Z"
+   checksum="35938f41e5d6c6ec714d4ef187cc9d60"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-20T03:42:24.721841Z"/>
+<entry
+   committed-rev="22"
+   name="home__list_header__filters.xml"
+   text-time="2013-12-04T15:19:24.758468Z"
+   committed-date="2013-11-30T12:29:52.472651Z"
+   checksum="5b0cef587b7ceb7a56750ebd7b7bb9b5"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.106431Z"/>
+<entry
+   committed-rev="78"
+   name="more_detail_of_parking.xml"
+   text-time="2013-12-16T07:30:10.230588Z"
+   committed-date="2013-12-15T17:40:33.274544Z"
+   checksum="f13a4c5742783437cf161fa5492576ea"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-16T07:30:10.101581Z"/>
+<entry
+   committed-rev="1"
+   name="register.xml"
+   text-time="2013-12-04T15:19:24.789470Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="86960205a854ad81e0e1a8f2d06b8ee7"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.122432Z"/>
+<entry
+   committed-rev="1"
+   name="register_verification.xml"
+   text-time="2013-12-04T15:19:24.801471Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="80a16f764e2af30ee22bd5455ff6f5f7"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.130432Z"/>
+<entry
+   committed-rev="2"
+   name="shop_publish__list__.xml"
+   text-time="2013-12-04T15:19:24.815471Z"
+   committed-date="2013-11-21T06:48:56.128022Z"
+   checksum="87ecfa210480bf0a7b25c2cac6672d84"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.138433Z"/>
+<entry
+   committed-rev="10"
+   name="topbar_register.xml"
+   text-time="2013-12-04T15:19:24.844473Z"
+   committed-date="2013-11-25T07:07:03.751215Z"
+   checksum="ab700d2b7cfe312318d6f803fd0486a5"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.146433Z"/>
+<entry
+   committed-rev="1"
+   name="detail_parking_panel.xml"
+   text-time="2013-12-04T15:19:24.856474Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="24f5802b5da5d2ea11b192f7c91c6984"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.155434Z"/>
+<entry
+   committed-rev="62"
+   name="home__list_item__.xml"
+   text-time="2013-12-13T09:32:24.943360Z"
+   committed-date="2013-12-13T10:08:11.664953Z"
+   checksum="c8fbf678cb4ccd53c3891090366e795f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.164434Z"/>
+<entry
+   committed-rev="10"
+   name="topbar_change_nickname.xml"
+   text-time="2013-12-04T15:19:24.879475Z"
+   committed-date="2013-11-25T07:07:03.751215Z"
+   checksum="43b945da7e5c04edd498a3038783f30e"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.173435Z"/>
+<entry
+   committed-rev="1"
+   name="parking_detail_banner.xml"
+   text-time="2013-12-04T15:19:24.891476Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="76af6fee50158c581aad60fae9b73f22"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.180435Z"/>
+<entry
+   committed-rev="1"
+   name="register_panel.xml"
+   text-time="2013-12-04T15:19:24.902476Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="16a514cc91a40815604c574a70c1bdf8"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.188436Z"/>
+<entry
+   committed-rev="45"
+   name="post_parking_message_.xml"
+   text-time="2013-12-06T03:43:19.745082Z"
+   committed-date="2013-12-06T10:10:38.349205Z"
+   checksum="c6d520c9fb9999dfedaedefceeda1417"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.197436Z"/>
+<entry
+   committed-rev="10"
+   name="chang_nickname_panel.xml"
+   text-time="2013-12-04T15:19:24.927478Z"
+   committed-date="2013-11-25T07:07:03.751215Z"
+   checksum="da1257a9551130ec7868d48d6624a491"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.206437Z"/>
+<entry
+   committed-rev="81"
+   name="shop_publish__list_item__.xml"
+   text-time="2013-12-18T03:55:09.948306Z"
+   committed-date="2013-12-16T15:02:42.298241Z"
+   checksum="7ee392ea1e571606e8cd2f4291a27d81"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.214437Z"/>
+<entry
+   committed-rev="35"
+   name="change_password.xml"
+   text-time="2013-12-04T15:19:24.960480Z"
+   committed-date="2013-12-02T15:51:58.312574Z"
+   checksum="2805900e98f43e4b9abe1aa7922de84a"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.223438Z"/>
+<entry
+   committed-rev="7"
+   name="shop_publish__view__not_find.xml"
+   text-time="2013-12-04T15:19:24.975481Z"
+   committed-date="2013-11-23T09:41:18.618450Z"
+   checksum="052b4429f281ae35fe22844769052a6d"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.232438Z"/>
+<entry
+   committed-rev="10"
+   name="topbar_parkingdetail_more.xml"
+   text-time="2013-12-04T15:19:24.989481Z"
+   committed-date="2013-11-25T07:07:03.751215Z"
+   checksum="f1fe63a1d2679d23bc109e49a6da2e20"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.242439Z"/>
+<entry
+   committed-rev="3"
+   name="topbar_post_parking.xml"
+   text-time="2013-12-04T15:19:25.003482Z"
+   committed-date="2013-11-21T10:27:03.365147Z"
+   checksum="2c98e9821838782ef5c894913f8f2b0a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.251439Z"/>
+<entry
+   committed-rev="89"
+   name="parking_item_.xml"
+   text-time="2013-12-20T09:28:19.451720Z"
+   committed-date="2013-12-20T09:47:13.533137Z"
+   checksum="27678321d408a02d63469bbe51edef8c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-16T07:30:10.121582Z"/>
+<entry
+   committed-rev="3"
+   name="search_list_activity.xml"
+   text-time="2013-12-04T15:19:25.028484Z"
+   committed-date="2013-11-21T10:27:03.365147Z"
+   checksum="0dda0b6f7286c9975cb426679af6d848"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.271440Z"/>
+<entry
+   committed-rev="92"
+   name="shop_publish__view__search.xml"
+   text-time="2013-12-26T02:01:47.307395Z"
+   committed-date="2013-12-27T01:34:21.888473Z"
+   checksum="22dd829fee3364fdf483102a5d39e4a1"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.282441Z"/>
+<entry
+   committed-rev="34"
+   name="topbar_search.xml"
+   text-time="2013-12-04T15:19:25.117489Z"
+   committed-date="2013-12-02T15:33:54.381852Z"
+   checksum="2f8d2c05bf2b99d40922877d4c143a19"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-04T15:19:24.292442Z"/>
+</wc-entries>

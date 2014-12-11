@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/searchCloseBtn"
+    android:layout_width="45dp"
+    android:layout_height="45dp" 
+    android:background="@drawable/button_search_close_bg"
+    android:layout_gravity="right|bottom"
+    android:layout_marginRight="5dp"
+    android:layout_marginBottom="5dp"
+    >
+    
+
+</Button>

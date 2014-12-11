@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="81"
+   name=""
+   committed-date="2013-12-16T15:02:42.298241Z"
+   url="svn://git.ehoo.com/freepark/src/lanyotech/cn/park/application"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="96"
+   name="ParkApplication.java"
+   text-time="2013-12-31T02:34:20.812960Z"
+   committed-date="2013-12-31T02:41:13.466846Z"
+   checksum="f55b772b2f96ac53b807a1e7fe0daa1b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-16T07:21:38.571323Z"
+   revision="96"/>
+</wc-entries>

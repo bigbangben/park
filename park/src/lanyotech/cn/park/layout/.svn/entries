@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="94"
+   name=""
+   committed-date="2013-12-27T16:02:41.819511Z"
+   url="svn://git.ehoo.com/freepark/src/lanyotech/cn/park/layout"
+   last-author="long"
+   kind="dir"
+   uuid="fefd6f94-1fb6-4a0a-8a8b-e64efcf8287d"
+   repos="svn://git.ehoo.com/freepark"
+   revision="95"/>
+<entry
+   committed-rev="73"
+   name="LoginView.java"
+   text-time="2013-12-16T07:21:39.406371Z"
+   committed-date="2013-12-15T07:27:36.202054Z"
+   checksum="51bdeb5422fc5a949bbf10e164135a0c"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-16T07:21:39.286364Z"/>
+<entry
+   committed-rev="44"
+   name="ChangePassWordView.java"
+   text-time="2013-12-06T09:25:29.716330Z"
+   committed-date="2013-12-06T10:10:21.607748Z"
+   checksum="7e3080516221148f6b949c1ad74c0233"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.688977Z"/>
+<entry
+   committed-rev="10"
+   name="RegisterPanel.java"
+   text-time="2013-12-04T15:18:58.922990Z"
+   committed-date="2013-11-25T07:07:03.751215Z"
+   checksum="831e958d98f11695487097a484d805ef"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.714979Z"/>
+<entry
+   committed-rev="1"
+   name="MainPanel.java"
+   text-time="2013-12-04T15:18:58.908990Z"
+   committed-date="2013-11-21T03:38:38.580405Z"
+   checksum="9b87fd3680d752c21952ccf4e8a1911b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.705978Z"/>
+<entry
+   committed-rev="90"
+   name="MapParkingItem.java"
+   text-time="2013-12-24T09:07:08.848584Z"
+   committed-date="2013-12-24T09:26:28.518590Z"
+   checksum="226d550822cb161d151f6fb6ebe46d36"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.722979Z"/>
+<entry
+   committed-rev="47"
+   name="ChangeNickNamePanel.java"
+   text-time="2013-12-07T10:11:28.792411Z"
+   committed-date="2013-12-07T12:30:59.914794Z"
+   checksum="0d1776cb3044b9031a6d26ba02bdc940"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.737980Z"/>
+<entry
+   committed-rev="7"
+   name="ShopPublishInputView.java"
+   text-time="2013-12-04T15:18:58.948992Z"
+   committed-date="2013-11-23T09:41:18.618450Z"
+   checksum="8f7c6f6f6aec0773bad81dfda31bde8f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.729979Z"/>
+<entry
+   committed-rev="7"
+   name="ShopPublishNotFindView.java"
+   text-time="2013-12-04T15:18:58.981994Z"
+   committed-date="2013-11-23T09:41:18.618450Z"
+   checksum="c0036b0d292430b276448462cf72e9ac"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.745980Z"/>
+<entry
+   committed-rev="6"
+   name="RegisterView.java"
+   text-time="2013-12-04T15:18:59.031997Z"
+   committed-date="2013-11-23T08:19:35.936110Z"
+   checksum="29b3ca5c47966c9effef2ace88cdeb8c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.769982Z"/>
+<entry
+   committed-rev="47"
+   name="PersonalCenterView.java"
+   text-time="2013-12-07T10:11:29.167432Z"
+   committed-date="2013-12-07T12:30:59.914794Z"
+   checksum="9e1a88efdc64c142024c95d752f5b1ea"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.761981Z"/>
+<entry
+   committed-rev="14"
+   name="ShopPublishSubmitView.java"
+   text-time="2013-12-10T02:37:32.136182Z"
+   committed-date="2013-11-26T09:44:21.092777Z"
+   checksum="f5c1e2979bad14894906ffbe293b605c"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.753981Z"/>
+<entry
+   committed-rev="14"
+   name="ShopPublishSearchView.java"
+   text-time="2013-12-04T15:18:59.046998Z"
+   committed-date="2013-11-26T09:44:21.092777Z"
+   checksum="9b776ab625cbe92646d08749907fef5d"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.777982Z"/>
+<entry
+   committed-rev="26"
+   name="RegisterVerificationView.java"
+   text-time="2013-12-04T15:18:59.079999Z"
+   committed-date="2013-12-01T16:05:20.906053Z"
+   checksum="65242f1627f723f4e76c37a76a6e6758"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.792983Z"/>
+<entry
+   committed-rev="9"
+   name="AssessAppDialog.java"
+   text-time="2013-12-04T15:18:59.062998Z"
+   committed-date="2013-11-24T09:23:00.108244Z"
+   checksum="c5ee07c0c758e5f0bf7217d5d097e354"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.784983Z"/>
+<entry
+   committed-rev="96"
+   name="HomeList.java"
+   text-time="2013-12-31T02:40:09.086880Z"
+   committed-date="2013-12-31T02:41:13.466846Z"
+   checksum="c51e9e53dc784e598aa28f37586eda2d"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-20T03:42:24.527830Z"
+   revision="96"/>
+<entry
+   committed-rev="78"
+   name="SearchDialog.java"
+   text-time="2013-12-16T07:21:39.433373Z"
+   committed-date="2013-12-15T17:40:33.274544Z"
+   checksum="24848b1c824cded012e1bd7fd0e2aa3b"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-16T07:21:39.371369Z"/>
+<entry
+   committed-rev="87"
+   name="ChangeNicknameView.java"
+   text-time="2013-12-20T03:38:40.192999Z"
+   committed-date="2013-12-20T03:43:34.915850Z"
+   checksum="866f1f187fef0daeaee2e6133d24030a"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.820985Z"/>
+<entry
+   committed-rev="76"
+   name="LoginPanel.java"
+   text-time="2013-12-16T07:21:39.448373Z"
+   committed-date="2013-12-15T10:25:19.185901Z"
+   checksum="e995a559bcb0e5c6da48975194bd56fc"
+   last-author="wenjun.wu"
+   kind="file"
+   prop-time="2013-12-16T07:21:39.390370Z"/>
+<entry
+   committed-rev="44"
+   name="ChangePassWordPanel.java"
+   text-time="2013-12-06T09:49:46.529654Z"
+   committed-date="2013-12-06T10:10:21.607748Z"
+   checksum="aff9d391b41f3aaca6e984304461b8aa"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.836986Z"/>
+<entry
+   committed-rev="6"
+   name="MapBusinessCircleItem.java"
+   text-time="2013-12-04T15:18:59.165004Z"
+   committed-date="2013-11-23T08:19:35.936110Z"
+   checksum="f4b2423619dde05f8e1b538e7d9721bc"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.843986Z"/>
+<entry
+   committed-rev="85"
+   name="AboutDialog.java"
+   text-time="2013-12-18T14:03:53.586829Z"
+   committed-date="2013-12-18T14:05:01.543548Z"
+   checksum="46464eec449e0f5fef847052277c5a62"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-09T13:34:41.329477Z"/>
+<entry
+   committed-rev="7"
+   name="ShopPublishSelectView.java"
+   text-time="2013-12-10T02:37:31.138125Z"
+   committed-date="2013-11-23T09:41:18.618450Z"
+   checksum="22897ccbb4d49be43bf60156ccac5112"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.859987Z"/>
+<entry
+   committed-rev="84"
+   name="ShopPublishList.java"
+   text-time="2013-12-18T03:53:17.275861Z"
+   committed-date="2013-12-18T03:58:26.845979Z"
+   checksum="61e579fa87c75cf9f5405cd76e38f16f"
+   last-author="long"
+   kind="file"
+   prop-time="2013-12-04T15:18:58.867987Z"/>
+</wc-entries>

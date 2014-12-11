@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lanyotech.cn.park.layout.RegisterPanel xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    nextRes="$layout.register_verification"
+     >
+
+    <lanyotech.cn.park.component.TopBarPanel
+        android:id="@+id/topBarPanel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        topBarRes="$layout.topbar_register"
+        android:orientation="vertical" >
+
+        <lanyotech.cn.park.layout.RegisterView
+            android:id="@+id/registerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </lanyotech.cn.park.component.TopBarPanel>
+
+</lanyotech.cn.park.layout.RegisterPanel>

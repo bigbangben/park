@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_vg_baseHorizontalPadding">6dp</dimen>
+    <dimen name="common_vg_baseVerticalPadding">10dp</dimen>
+    <dimen name="common_vg_titleHeight">45dp</dimen>
+    <dimen name="common_btn_rightOfTitleBgRadius">3dp</dimen>
+    
+    <dimen name="home_iv_mainShopLogoWidth">57dp</dimen>
+    <dimen name="home_iv_mainShopLogoHeight">57dp</dimen>
+    <dimen name="home_iv_otherShopLogoWidth">32dp</dimen>
+    <dimen name="home_iv_otherShopLogoHeight">32dp</dimen>
+    
+    <dimen name="text_view_paddingtop">18dp</dimen>
+    <dimen name="text_size_parking_detail">18dp</dimen>
+    <dimen name="text_size_parking_detail_larger">20dp</dimen>
+    <dimen name="parking_detail_left_panel_width">65dp</dimen>
+    <dimen name="parking_detail_left_panel_length">162dp</dimen>
+    <dimen name="parking_bottom_panel_margin">8dp</dimen>
+    <dimen name="parking_detail_text_size">17sp</dimen>
+    <dimen name="first_parking_detail_left_panel_length">190dp</dimen>
+    
+    <dimen name="post_parking_padding_left_right">6dp</dimen>
+    <dimen name="post_parking_margin_top">15dp</dimen>
+ 
+</resources>

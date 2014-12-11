@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:id="@+id/left_panel"
+        android:layout_width="@dimen/parking_detail_left_panel_width"
+        android:layout_height="match_parent"
+        android:background="#E3E5DC"
+        android:gravity="center_horizontal" >
+
+        <lanyotech.cn.park.component.GraphicImageView
+            android:id="@+id/merchant_icon"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/detail_logo_bg"
+            android:padding="2.5dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/businessicon_big" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/mid_panel"
+        android:layout_width="6.5dp"
+        android:layout_height="match_parent"
+        android:background="#d5d5d5" />
+
+    <LinearLayout
+        android:id="@+id/right_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#E3E5DC" >
+
+        <LinearLayout
+            android:id="@+id/right"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:background="#F0F0EF"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+
+                <RelativeLayout
+                    android:id="@+id/right_panel_top"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#F0F0EF"
+                    android:gravity="center_vertical" >
+
+                    <TextView
+                        android:id="@+id/merchant_shopName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="37dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_marginLeft="10dp"
+                        android:gravity="center_vertical"
+                        android:text="西贝西北菜"
+                        android:textColor="#333333"
+                        android:textSize="20sp" />
+
+                    <ImageView
+                        android:id="@+id/merchant_iv_vip"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignTop="@+id/merchant_shopName"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginTop="12dp"
+                        android:layout_toRightOf="@+id/merchant_shopName"
+                        android:contentDescription="@null"
+                        android:src="@drawable/home_list_vip" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/right_panel_mid"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#F3F4F3" >
+
+                    <TextView
+                        android:id="@+id/free_charge"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:gravity="left"
+                        android:paddingTop="10dp"
+                        android:text="任意消费免停车费10元"
+                        android:textColor="#feab0c"
+                        android:textSize="15sp" />
+
+                    <TextView
+                        android:id="@+id/merchant_tv_dizhi"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignLeft="@id/free_charge"
+                        android:layout_below="@id/free_charge"
+                        android:layout_marginTop="6dp"
+                        android:paddingBottom="6dp"
+                        android:text="地址："
+                        android:textColor="#666666"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/merchant_tv_location"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/free_charge"
+                        android:layout_marginTop="6dp"
+                        android:layout_toRightOf="@id/merchant_tv_dizhi"
+                        android:lines="1"
+                        android:paddingBottom="6dp"
+                        android:text="浦东新区世纪大道2000号"
+                        android:textColor="#666666"
+                        android:textSize="14sp" />
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:id="@+id/bottom_panel"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#E8ECEB"
+                    android:gravity="center"
+                    android:orientation="horizontal" >
+
+                    <LinearLayout
+                        android:id="@+id/public_comment"
+                        style="@style/parking_bottom_panel_style" >
+
+                        <ImageView
+                            android:id="@+id/review_icon"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingTop="2dp"
+                            android:src="@drawable/detailicon_review" />
+
+                        <TextView
+                            android:id="@+id/comment"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="大众点评"
+                            android:textColor="#878787"
+                            android:textSize="17sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/phone_call"
+                        style="@style/parking_bottom_panel_style">
+
+                        <ImageView
+                            android:id="@+id/phone_icon"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/detailicon_phone" />
+
+                        <TextView
+                            android:id="@+id/phone"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="电话"
+                            android:textColor="#878787"
+                            android:textSize="17sp" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/wrong_undo"
+                       style="@style/parking_bottom_panel_style" >
+
+                        <ImageView
+                            android:id="@+id/wrong_icon"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/detailicon_wrong" />
+
+                        <TextView
+                            android:id="@+id/wrong_fix_tv"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:text="纠错"
+                            android:textColor="#878787"
+                            android:textSize="17sp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
